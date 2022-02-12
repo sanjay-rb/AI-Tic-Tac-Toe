@@ -1,6 +1,18 @@
 from itertools import permutations
+
 import csv
-sl = ['xox', 'bbb', 'bbb']
+'''
+x,
+x,
+x,
+o,
+o
+b,
+b,
+b,
+b,
+'''
+sl = ['xxx', 'oob', 'bbb']
 s = ''.join(sl)
 
 def getIntex(l, v):
@@ -29,7 +41,7 @@ for d in des_list:
             final_list.append(cp+[i])
 print(final_list)
 
-filename = "test2.csv"
+filename = "test.csv"
     
 with open(filename, 'w', newline='', encoding='utf-8') as csvfile: 
     csvwriter = csv.writer(csvfile) 
