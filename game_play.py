@@ -81,7 +81,7 @@ while True:
     oi = classfier.oMove(inBoard(board))[0]
     if board[oi] in ['o', 'x']:
         print(
-            f"Already taken by {board[oi]}, opponent failed to choose correct place)")
+            f"Already taken by {board[oi]}, opponent failed to choose correct place")
         break
     board[oi] = 'o'
 

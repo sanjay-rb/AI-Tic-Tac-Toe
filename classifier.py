@@ -6,7 +6,7 @@ class Classifier:
     le = LabelEncoder()
     def __init__(self) -> None:
         print("Loading game data....")
-        dataset = pd.read_csv(r"test_v3.csv")
+        dataset = pd.read_csv(r"tic-tac-toe.csv")
         X = dataset.iloc[:, [0,1,2,3,4,5,6,7,8]].values
         y = dataset.iloc[:, -1].values
         for i in range(0, 8+1):
