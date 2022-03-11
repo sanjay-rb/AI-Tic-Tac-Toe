@@ -1,0 +1,12284 @@
+{
+    "bbbbbbbbx": [
+        2,
+        7,
+        4,
+        6,
+        5,
+        0
+    ],
+    "bbbbbbbxb": [
+        8,
+        6,
+        4,
+        1
+    ],
+    "bbbbbbxbb": [
+        8,
+        2,
+        7,
+        3,
+        4,
+        0
+    ],
+    "bbbbbxbbb": [
+        4,
+        8,
+        2,
+        3
+    ],
+    "bbbbxbbbb": [
+        8,
+        2,
+        7,
+        3,
+        6,
+        0,
+        1,
+        5
+    ],
+    "bbbxbbbbb": [
+        4,
+        6,
+        5,
+        0
+    ],
+    "bbxbbbbbb": [
+        8,
+        4,
+        1,
+        6,
+        5,
+        0
+    ],
+    "bxbbbbbbb": [
+        2,
+        4,
+        7,
+        0
+    ],
+    "xbbbbbbbb": [
+        2,
+        8,
+        3,
+        4,
+        6,
+        1
+    ],
+    "bbbbbboxx": [
+        6
+    ],
+    "bbbbbbxox": [
+        2,
+        3,
+        4,
+        0,
+        1,
+        5
+    ],
+    "bbbbbbxxo": [
+        8
+    ],
+    "bbbbbobxx": [
+        6
+    ],
+    "bbbbboxbx": [
+        2,
+        7,
+        3,
+        4,
+        0,
+        1
+    ],
+    "bbbbboxxb": [
+        8
+    ],
+    "bbbbbxbox": [
+        2
+    ],
+    "bbbbbxbxo": [
+        2,
+        3,
+        4,
+        6,
+        0,
+        1
+    ],
+    "bbbbbxobx": [
+        2
+    ],
+    "bbbbbxoxb": [
+        2,
+        8,
+        3,
+        4,
+        0,
+        1
+    ],
+    "bbbbbxxbo": [
+        2,
+        7,
+        3,
+        4,
+        0,
+        1
+    ],
+    "bbbbbxxob": [
+        2,
+        8,
+        3,
+        4,
+        0,
+        1
+    ],
+    "bbbbobbxx": [
+        6
+    ],
+    "bbbbobxbx": [
+        2,
+        7,
+        3,
+        1,
+        5,
+        0
+    ],
+    "bbbbobxxb": [
+        8
+    ],
+    "bbbboxbbx": [
+        2
+    ],
+    "bbbboxbxb": [
+        2,
+        8,
+        3,
+        6,
+        0,
+        1
+    ],
+    "bbbboxxbb": [
+        2,
+        8,
+        7,
+        3,
+        0,
+        1
+    ],
+    "bbbbxbbox": [
+        0
+    ],
+    "bbbbxbbxo": [
+        1
+    ],
+    "bbbbxbobx": [
+        0
+    ],
+    "bbbbxboxb": [
+        1
+    ],
+    "bbbbxbxbo": [
+        2
+    ],
+    "bbbbxbxob": [
+        2
+    ],
+    "bbbbxobbx": [
+        0
+    ],
+    "bbbbxobxb": [
+        1
+    ],
+    "bbbbxoxbb": [
+        2
+    ],
+    "bbbbxxbbo": [
+        3
+    ],
+    "bbbbxxbob": [
+        3
+    ],
+    "bbbbxxobb": [
+        3
+    ],
+    "bbbobbbxx": [
+        6
+    ],
+    "bbbobbxbx": [
+        2,
+        7,
+        4,
+        1,
+        5,
+        0
+    ],
+    "bbbobbxxb": [
+        8
+    ],
+    "bbbobxbbx": [
+        2
+    ],
+    "bbbobxbxb": [
+        2,
+        8,
+        4,
+        6,
+        0,
+        1
+    ],
+    "bbbobxxbb": [
+        2,
+        8,
+        7,
+        4,
+        0,
+        1
+    ],
+    "bbboxbbbx": [
+        0
+    ],
+    "bbboxbbxb": [
+        1
+    ],
+    "bbboxbxbb": [
+        2
+    ],
+    "bbboxxbbb": [
+        3
+    ],
+    "bbbxbbbox": [
+        2,
+        4,
+        1,
+        6,
+        5,
+        0
+    ],
+    "bbbxbbbxo": [
+        2,
+        4,
+        1,
+        6,
+        5,
+        0
+    ],
+    "bbbxbbobx": [
+        2,
+        7,
+        4,
+        1,
+        5,
+        0
+    ],
+    "bbbxbboxb": [
+        2,
+        8,
+        4,
+        1,
+        5,
+        0
+    ],
+    "bbbxbbxbo": [
+        0
+    ],
+    "bbbxbbxob": [
+        0
+    ],
+    "bbbxbobbx": [
+        2,
+        7,
+        4,
+        6,
+        0,
+        1
+    ],
+    "bbbxbobxb": [
+        2,
+        8,
+        4,
+        6,
+        0,
+        1
+    ],
+    "bbbxboxbb": [
+        0
+    ],
+    "bbbxbxbbo": [
+        2,
+        7,
+        4,
+        6,
+        0,
+        1
+    ],
+    "bbbxbxbob": [
+        2,
+        8,
+        4,
+        6,
+        0,
+        1
+    ],
+    "bbbxbxobb": [
+        2,
+        8,
+        7,
+        4,
+        0,
+        1
+    ],
+    "bbbxobbbx": [
+        2,
+        7,
+        1,
+        6,
+        5,
+        0
+    ],
+    "bbbxobbxb": [
+        2,
+        8,
+        1,
+        6,
+        5,
+        0
+    ],
+    "bbbxobxbb": [
+        0
+    ],
+    "bbbxoxbbb": [
+        2,
+        8,
+        7,
+        6,
+        0,
+        1
+    ],
+    "bbbxxbbbo": [
+        5
+    ],
+    "bbbxxbbob": [
+        5
+    ],
+    "bbbxxbobb": [
+        5
+    ],
+    "bbbxxobbb": [
+        5
+    ],
+    "bbobbbbxx": [
+        6
+    ],
+    "bbobbbxbx": [
+        7,
+        3,
+        4,
+        1,
+        5,
+        0
+    ],
+    "bbobbbxxb": [
+        8
+    ],
+    "bbobbxbbx": [
+        2
+    ],
+    "bbobbxbxb": [
+        8,
+        3,
+        4,
+        6,
+        0,
+        1
+    ],
+    "bbobbxxbb": [
+        8,
+        7,
+        3,
+        4,
+        0,
+        1
+    ],
+    "bbobxbbbx": [
+        0
+    ],
+    "bbobxbbxb": [
+        1
+    ],
+    "bbobxbxbb": [
+        2
+    ],
+    "bbobxxbbb": [
+        3
+    ],
+    "bboxbbbbx": [
+        7,
+        4,
+        1,
+        6,
+        5,
+        0
+    ],
+    "bboxbbbxb": [
+        8,
+        4,
+        1,
+        6,
+        5,
+        0
+    ],
+    "bboxbbxbb": [
+        0
+    ],
+    "bboxbxbbb": [
+        8,
+        7,
+        4,
+        6,
+        0,
+        1
+    ],
+    "bboxxbbbb": [
+        5
+    ],
+    "bbxbbbbox": [
+        3,
+        4,
+        1,
+        6,
+        5,
+        0
+    ],
+    "bbxbbbbxo": [
+        3,
+        4,
+        1,
+        6,
+        5,
+        0
+    ],
+    "bbxbbbobx": [
+        7,
+        3,
+        4,
+        1,
+        5,
+        0
+    ],
+    "bbxbbboxb": [
+        8,
+        3,
+        4,
+        1,
+        5,
+        0
+    ],
+    "bbxbbbxbo": [
+        7,
+        3,
+        4,
+        1,
+        5,
+        0
+    ],
+    "bbxbbbxob": [
+        8,
+        3,
+        4,
+        1,
+        5,
+        0
+    ],
+    "bbxbbobbx": [
+        7,
+        3,
+        4,
+        6,
+        0,
+        1
+    ],
+    "bbxbbobxb": [
+        8,
+        3,
+        4,
+        6,
+        0,
+        1
+    ],
+    "bbxbboxbb": [
+        8,
+        7,
+        3,
+        4,
+        0,
+        1
+    ],
+    "bbxbbxbbo": [
+        8
+    ],
+    "bbxbbxbob": [
+        8
+    ],
+    "bbxbbxobb": [
+        8
+    ],
+    "bbxbobbbx": [
+        7,
+        3,
+        1,
+        6,
+        5,
+        0
+    ],
+    "bbxbobbxb": [
+        8,
+        3,
+        1,
+        6,
+        5,
+        0
+    ],
+    "bbxbobxbb": [
+        8,
+        7,
+        3,
+        1,
+        5,
+        0
+    ],
+    "bbxboxbbb": [
+        8
+    ],
+    "bbxbxbbbo": [
+        6
+    ],
+    "bbxbxbbob": [
+        6
+    ],
+    "bbxbxbobb": [
+        6
+    ],
+    "bbxbxobbb": [
+        6
+    ],
+    "bbxobbbbx": [
+        7,
+        4,
+        1,
+        6,
+        5,
+        0
+    ],
+    "bbxobbbxb": [
+        8,
+        4,
+        1,
+        6,
+        5,
+        0
+    ],
+    "bbxobbxbb": [
+        8,
+        7,
+        4,
+        1,
+        5,
+        0
+    ],
+    "bbxobxbbb": [
+        8
+    ],
+    "bbxoxbbbb": [
+        6
+    ],
+    "bbxxbbbbo": [
+        7,
+        4,
+        1,
+        6,
+        5,
+        0
+    ],
+    "bbxxbbbob": [
+        8,
+        4,
+        1,
+        6,
+        5,
+        0
+    ],
+    "bbxxbbobb": [
+        8,
+        7,
+        4,
+        1,
+        5,
+        0
+    ],
+    "bbxxbobbb": [
+        8,
+        7,
+        4,
+        6,
+        0,
+        1
+    ],
+    "bbxxobbbb": [
+        8,
+        7,
+        1,
+        6,
+        5,
+        0
+    ],
+    "bobbbbbxx": [
+        6
+    ],
+    "bobbbbxbx": [
+        2,
+        7,
+        3,
+        4,
+        5,
+        0
+    ],
+    "bobbbbxxb": [
+        8
+    ],
+    "bobbbxbbx": [
+        2
+    ],
+    "bobbbxbxb": [
+        2,
+        8,
+        3,
+        4,
+        6,
+        0
+    ],
+    "bobbbxxbb": [
+        2,
+        8,
+        7,
+        3,
+        4,
+        0
+    ],
+    "bobbxbbbx": [
+        0
+    ],
+    "bobbxbbxb": [
+        1
+    ],
+    "bobbxbxbb": [
+        2
+    ],
+    "bobbxxbbb": [
+        3
+    ],
+    "bobxbbbbx": [
+        2,
+        7,
+        4,
+        6,
+        5,
+        0
+    ],
+    "bobxbbbxb": [
+        2,
+        8,
+        4,
+        6,
+        5,
+        0
+    ],
+    "bobxbbxbb": [
+        0
+    ],
+    "bobxbxbbb": [
+        2,
+        8,
+        7,
+        4,
+        6,
+        0
+    ],
+    "bobxxbbbb": [
+        5
+    ],
+    "boxbbbbbx": [
+        7,
+        3,
+        4,
+        6,
+        5,
+        0
+    ],
+    "boxbbbbxb": [
+        8,
+        3,
+        4,
+        6,
+        5,
+        0
+    ],
+    "boxbbbxbb": [
+        8,
+        7,
+        3,
+        4,
+        5,
+        0
+    ],
+    "boxbbxbbb": [
+        8
+    ],
+    "boxbxbbbb": [
+        6
+    ],
+    "boxxbbbbb": [
+        8,
+        7,
+        4,
+        6,
+        5,
+        0
+    ],
+    "bxbbbbbox": [
+        2,
+        3,
+        4,
+        6,
+        5,
+        0
+    ],
+    "bxbbbbbxo": [
+        2,
+        3,
+        4,
+        6,
+        5,
+        0
+    ],
+    "bxbbbbobx": [
+        2,
+        7,
+        3,
+        4,
+        5,
+        0
+    ],
+    "bxbbbboxb": [
+        2,
+        8,
+        3,
+        4,
+        5,
+        0
+    ],
+    "bxbbbbxbo": [
+        2,
+        7,
+        3,
+        4,
+        5,
+        0
+    ],
+    "bxbbbbxob": [
+        2,
+        8,
+        3,
+        4,
+        5,
+        0
+    ],
+    "bxbbbobbx": [
+        2,
+        7,
+        3,
+        4,
+        6,
+        0
+    ],
+    "bxbbbobxb": [
+        2,
+        8,
+        3,
+        4,
+        6,
+        0
+    ],
+    "bxbbboxbb": [
+        2,
+        8,
+        7,
+        3,
+        4,
+        0
+    ],
+    "bxbbbxbbo": [
+        2,
+        7,
+        3,
+        4,
+        6,
+        0
+    ],
+    "bxbbbxbob": [
+        2,
+        8,
+        3,
+        4,
+        6,
+        0
+    ],
+    "bxbbbxobb": [
+        2,
+        8,
+        7,
+        3,
+        4,
+        0
+    ],
+    "bxbbobbbx": [
+        2,
+        7,
+        3,
+        6,
+        5,
+        0
+    ],
+    "bxbbobbxb": [
+        2,
+        8,
+        3,
+        6,
+        5,
+        0
+    ],
+    "bxbbobxbb": [
+        2,
+        8,
+        7,
+        3,
+        5,
+        0
+    ],
+    "bxbboxbbb": [
+        2,
+        8,
+        7,
+        3,
+        6,
+        0
+    ],
+    "bxbbxbbbo": [
+        7
+    ],
+    "bxbbxbbob": [
+        7
+    ],
+    "bxbbxbobb": [
+        7
+    ],
+    "bxbbxobbb": [
+        7
+    ],
+    "bxbobbbbx": [
+        2,
+        7,
+        4,
+        6,
+        5,
+        0
+    ],
+    "bxbobbbxb": [
+        2,
+        8,
+        4,
+        6,
+        5,
+        0
+    ],
+    "bxbobbxbb": [
+        2,
+        8,
+        7,
+        4,
+        5,
+        0
+    ],
+    "bxbobxbbb": [
+        2,
+        8,
+        7,
+        4,
+        6,
+        0
+    ],
+    "bxboxbbbb": [
+        7
+    ],
+    "bxbxbbbbo": [
+        2,
+        7,
+        4,
+        6,
+        5,
+        0
+    ],
+    "bxbxbbbob": [
+        2,
+        8,
+        4,
+        6,
+        5,
+        0
+    ],
+    "bxbxbbobb": [
+        2,
+        8,
+        7,
+        4,
+        5,
+        0
+    ],
+    "bxbxbobbb": [
+        2,
+        8,
+        7,
+        4,
+        6,
+        0
+    ],
+    "bxbxobbbb": [
+        2,
+        8,
+        7,
+        6,
+        5,
+        0
+    ],
+    "bxobbbbbx": [
+        7,
+        3,
+        4,
+        6,
+        5,
+        0
+    ],
+    "bxobbbbxb": [
+        8,
+        3,
+        4,
+        6,
+        5,
+        0
+    ],
+    "bxobbbxbb": [
+        8,
+        7,
+        3,
+        4,
+        5,
+        0
+    ],
+    "bxobbxbbb": [
+        8,
+        7,
+        3,
+        4,
+        6,
+        0
+    ],
+    "bxobxbbbb": [
+        7
+    ],
+    "bxoxbbbbb": [
+        8,
+        7,
+        4,
+        6,
+        5,
+        0
+    ],
+    "bxxbbbbbo": [
+        0
+    ],
+    "bxxbbbbob": [
+        0
+    ],
+    "bxxbbbobb": [
+        0
+    ],
+    "bxxbbobbb": [
+        0
+    ],
+    "bxxbobbbb": [
+        0
+    ],
+    "bxxobbbbb": [
+        0
+    ],
+    "obbbbbbxx": [
+        6
+    ],
+    "obbbbbxbx": [
+        2,
+        7,
+        3,
+        4,
+        5,
+        1
+    ],
+    "obbbbbxxb": [
+        8
+    ],
+    "obbbbxbbx": [
+        2
+    ],
+    "obbbbxbxb": [
+        2,
+        8,
+        3,
+        4,
+        6,
+        1
+    ],
+    "obbbbxxbb": [
+        2,
+        8,
+        7,
+        3,
+        4,
+        1
+    ],
+    "obbbxbbbx": [
+        0
+    ],
+    "obbbxbbxb": [
+        1
+    ],
+    "obbbxbxbb": [
+        2
+    ],
+    "obbbxxbbb": [
+        3
+    ],
+    "obbxbbbbx": [
+        2,
+        7,
+        4,
+        6,
+        5,
+        1
+    ],
+    "obbxbbbxb": [
+        2,
+        8,
+        4,
+        6,
+        5,
+        1
+    ],
+    "obbxbbxbb": [
+        0
+    ],
+    "obbxbxbbb": [
+        2,
+        8,
+        7,
+        4,
+        6,
+        1
+    ],
+    "obbxxbbbb": [
+        5
+    ],
+    "obxbbbbbx": [
+        7,
+        3,
+        4,
+        6,
+        5,
+        1
+    ],
+    "obxbbbbxb": [
+        8,
+        3,
+        4,
+        6,
+        5,
+        1
+    ],
+    "obxbbbxbb": [
+        8,
+        7,
+        3,
+        4,
+        5,
+        1
+    ],
+    "obxbbxbbb": [
+        8
+    ],
+    "obxbxbbbb": [
+        6
+    ],
+    "obxxbbbbb": [
+        8,
+        7,
+        4,
+        6,
+        5,
+        1
+    ],
+    "oxbbbbbbx": [
+        2,
+        7,
+        3,
+        4,
+        6,
+        5
+    ],
+    "oxbbbbbxb": [
+        2,
+        8,
+        3,
+        4,
+        6,
+        5
+    ],
+    "oxbbbbxbb": [
+        2,
+        8,
+        7,
+        3,
+        4,
+        5
+    ],
+    "oxbbbxbbb": [
+        2,
+        8,
+        7,
+        3,
+        4,
+        6
+    ],
+    "oxbbxbbbb": [
+        7
+    ],
+    "oxbxbbbbb": [
+        2,
+        8,
+        7,
+        4,
+        6,
+        5
+    ],
+    "oxxbbbbbb": [
+        0
+    ],
+    "xbbbbbbox": [
+        2,
+        3,
+        4,
+        6,
+        5,
+        1
+    ],
+    "xbbbbbbxo": [
+        2,
+        3,
+        4,
+        6,
+        5,
+        1
+    ],
+    "xbbbbbobx": [
+        2,
+        7,
+        3,
+        4,
+        5,
+        1
+    ],
+    "xbbbbboxb": [
+        2,
+        8,
+        3,
+        4,
+        5,
+        1
+    ],
+    "xbbbbbxbo": [
+        2,
+        7,
+        3,
+        4,
+        5,
+        1
+    ],
+    "xbbbbbxob": [
+        2,
+        8,
+        3,
+        4,
+        5,
+        1
+    ],
+    "xbbbbobbx": [
+        2,
+        7,
+        3,
+        4,
+        6,
+        1
+    ],
+    "xbbbbobxb": [
+        2,
+        8,
+        3,
+        4,
+        6,
+        1
+    ],
+    "xbbbboxbb": [
+        2,
+        8,
+        7,
+        3,
+        4,
+        1
+    ],
+    "xbbbbxbbo": [
+        2,
+        7,
+        3,
+        4,
+        6,
+        1
+    ],
+    "xbbbbxbob": [
+        2,
+        8,
+        3,
+        4,
+        6,
+        1
+    ],
+    "xbbbbxobb": [
+        2,
+        8,
+        7,
+        3,
+        4,
+        1
+    ],
+    "xbbbobbbx": [
+        2,
+        7,
+        3,
+        6,
+        5,
+        1
+    ],
+    "xbbbobbxb": [
+        2,
+        8,
+        3,
+        6,
+        5,
+        1
+    ],
+    "xbbbobxbb": [
+        2,
+        8,
+        7,
+        3,
+        5,
+        1
+    ],
+    "xbbboxbbb": [
+        2,
+        8,
+        7,
+        3,
+        6,
+        1
+    ],
+    "xbbbxbbbo": [
+        8
+    ],
+    "xbbbxbbob": [
+        8
+    ],
+    "xbbbxbobb": [
+        8
+    ],
+    "xbbbxobbb": [
+        8
+    ],
+    "xbbobbbbx": [
+        2,
+        7,
+        4,
+        6,
+        5,
+        1
+    ],
+    "xbbobbbxb": [
+        2,
+        8,
+        4,
+        6,
+        5,
+        1
+    ],
+    "xbbobbxbb": [
+        2,
+        8,
+        7,
+        4,
+        5,
+        1
+    ],
+    "xbbobxbbb": [
+        2,
+        8,
+        7,
+        4,
+        6,
+        1
+    ],
+    "xbboxbbbb": [
+        8
+    ],
+    "xbbxbbbbo": [
+        6
+    ],
+    "xbbxbbbob": [
+        6
+    ],
+    "xbbxbbobb": [
+        6
+    ],
+    "xbbxbobbb": [
+        6
+    ],
+    "xbbxobbbb": [
+        6
+    ],
+    "xbobbbbbx": [
+        7,
+        3,
+        4,
+        6,
+        5,
+        1
+    ],
+    "xbobbbbxb": [
+        8,
+        3,
+        4,
+        6,
+        5,
+        1
+    ],
+    "xbobbbxbb": [
+        8,
+        7,
+        3,
+        4,
+        5,
+        1
+    ],
+    "xbobbxbbb": [
+        8,
+        7,
+        3,
+        4,
+        6,
+        1
+    ],
+    "xbobxbbbb": [
+        8
+    ],
+    "xboxbbbbb": [
+        6
+    ],
+    "xbxbbbbbo": [
+        7,
+        3,
+        4,
+        6,
+        5,
+        1
+    ],
+    "xbxbbbbob": [
+        8,
+        3,
+        4,
+        6,
+        5,
+        1
+    ],
+    "xbxbbbobb": [
+        8,
+        7,
+        3,
+        4,
+        5,
+        1
+    ],
+    "xbxbbobbb": [
+        8,
+        7,
+        3,
+        4,
+        6,
+        1
+    ],
+    "xbxbobbbb": [
+        8,
+        7,
+        3,
+        6,
+        5,
+        1
+    ],
+    "xbxobbbbb": [
+        8,
+        7,
+        4,
+        6,
+        5,
+        1
+    ],
+    "xobbbbbbx": [
+        2,
+        7,
+        3,
+        4,
+        6,
+        5
+    ],
+    "xobbbbbxb": [
+        2,
+        8,
+        3,
+        4,
+        6,
+        5
+    ],
+    "xobbbbxbb": [
+        2,
+        8,
+        7,
+        3,
+        4,
+        5
+    ],
+    "xobbbxbbb": [
+        2,
+        8,
+        7,
+        3,
+        4,
+        6
+    ],
+    "xobbxbbbb": [
+        8
+    ],
+    "xobxbbbbb": [
+        6
+    ],
+    "xoxbbbbbb": [
+        8,
+        7,
+        3,
+        4,
+        6,
+        5
+    ],
+    "xxbbbbbbo": [
+        2
+    ],
+    "xxbbbbbob": [
+        2
+    ],
+    "xxbbbbobb": [
+        2
+    ],
+    "xxbbbobbb": [
+        2
+    ],
+    "xxbbobbbb": [
+        2
+    ],
+    "xxbobbbbb": [
+        2
+    ],
+    "xxobbbbbb": [
+        2
+    ],
+    "bbbboxoxx": [
+        2,
+        3,
+        0,
+        1
+    ],
+    "bbbboxxox": [
+        2,
+        3,
+        0,
+        1
+    ],
+    "bbbboxxxo": [
+        2,
+        3,
+        0,
+        1
+    ],
+    "bbbbxooxx": [
+        2,
+        3,
+        0,
+        1
+    ],
+    "bbbbxoxox": [
+        2,
+        3,
+        0,
+        1
+    ],
+    "bbbbxoxxo": [
+        2,
+        3,
+        0,
+        1
+    ],
+    "bbbbxxoox": [
+        2,
+        3,
+        0,
+        1
+    ],
+    "bbbbxxoxo": [
+        2,
+        3,
+        0,
+        1
+    ],
+    "bbbbxxxoo": [
+        2,
+        3,
+        0,
+        1
+    ],
+    "bbbobxoxx": [
+        2,
+        4,
+        0,
+        1
+    ],
+    "bbbobxxox": [
+        2,
+        4,
+        0,
+        1
+    ],
+    "bbbobxxxo": [
+        2,
+        4,
+        0,
+        1
+    ],
+    "bbbooxbxx": [
+        2,
+        6,
+        0,
+        1
+    ],
+    "bbbooxxbx": [
+        2,
+        7,
+        0,
+        1
+    ],
+    "bbbooxxxb": [
+        2,
+        8,
+        0,
+        1
+    ],
+    "bbboxboxx": [
+        2,
+        5,
+        0,
+        1
+    ],
+    "bbboxbxox": [
+        2,
+        5,
+        0,
+        1
+    ],
+    "bbboxbxxo": [
+        2,
+        5,
+        0,
+        1
+    ],
+    "bbboxobxx": [
+        2,
+        6,
+        0,
+        1
+    ],
+    "bbboxoxbx": [
+        2,
+        7,
+        0,
+        1
+    ],
+    "bbboxoxxb": [
+        2,
+        8,
+        0,
+        1
+    ],
+    "bbboxxbox": [
+        2,
+        6,
+        0,
+        1
+    ],
+    "bbboxxbxo": [
+        2,
+        6,
+        0,
+        1
+    ],
+    "bbboxxobx": [
+        2,
+        7,
+        0,
+        1
+    ],
+    "bbboxxoxb": [
+        2,
+        8,
+        0,
+        1
+    ],
+    "bbboxxxbo": [
+        2,
+        7,
+        0,
+        1
+    ],
+    "bbboxxxob": [
+        2,
+        8,
+        0,
+        1
+    ],
+    "bbbxbooxx": [
+        2,
+        4,
+        0,
+        1
+    ],
+    "bbbxboxox": [
+        2,
+        4,
+        0,
+        1
+    ],
+    "bbbxboxxo": [
+        2,
+        4,
+        0,
+        1
+    ],
+    "bbbxbxoox": [
+        2,
+        4,
+        0,
+        1
+    ],
+    "bbbxbxoxo": [
+        2,
+        4,
+        0,
+        1
+    ],
+    "bbbxbxxoo": [
+        2,
+        4,
+        0,
+        1
+    ],
+    "bbbxoboxx": [
+        2,
+        5,
+        0,
+        1
+    ],
+    "bbbxobxox": [
+        2,
+        5,
+        0,
+        1
+    ],
+    "bbbxobxxo": [
+        2,
+        5,
+        0,
+        1
+    ],
+    "bbbxoobxx": [
+        2,
+        6,
+        0,
+        1
+    ],
+    "bbbxooxbx": [
+        2,
+        7,
+        0,
+        1
+    ],
+    "bbbxooxxb": [
+        2,
+        8,
+        0,
+        1
+    ],
+    "bbbxoxbox": [
+        2,
+        6,
+        0,
+        1
+    ],
+    "bbbxoxbxo": [
+        2,
+        6,
+        0,
+        1
+    ],
+    "bbbxoxobx": [
+        2,
+        7,
+        0,
+        1
+    ],
+    "bbbxoxoxb": [
+        2,
+        8,
+        0,
+        1
+    ],
+    "bbbxoxxbo": [
+        2,
+        7,
+        0,
+        1
+    ],
+    "bbbxoxxob": [
+        2,
+        8,
+        0,
+        1
+    ],
+    "bbbxxboox": [
+        2,
+        5,
+        0,
+        1
+    ],
+    "bbbxxboxo": [
+        2,
+        5,
+        0,
+        1
+    ],
+    "bbbxxbxoo": [
+        2,
+        5,
+        0,
+        1
+    ],
+    "bbbxxobox": [
+        2,
+        6,
+        0,
+        1
+    ],
+    "bbbxxobxo": [
+        2,
+        6,
+        0,
+        1
+    ],
+    "bbbxxoobx": [
+        2,
+        7,
+        0,
+        1
+    ],
+    "bbbxxooxb": [
+        2,
+        8,
+        0,
+        1
+    ],
+    "bbbxxoxbo": [
+        2,
+        7,
+        0,
+        1
+    ],
+    "bbbxxoxob": [
+        2,
+        8,
+        0,
+        1
+    ],
+    "bbobbxoxx": [
+        4,
+        3,
+        0,
+        1
+    ],
+    "bbobbxxox": [
+        4,
+        3,
+        0,
+        1
+    ],
+    "bbobbxxxo": [
+        4,
+        3,
+        0,
+        1
+    ],
+    "bboboxbxx": [
+        6,
+        3,
+        0,
+        1
+    ],
+    "bboboxxbx": [
+        7,
+        3,
+        0,
+        1
+    ],
+    "bboboxxxb": [
+        8,
+        3,
+        0,
+        1
+    ],
+    "bbobxboxx": [
+        3,
+        5,
+        0,
+        1
+    ],
+    "bbobxbxox": [
+        3,
+        5,
+        0,
+        1
+    ],
+    "bbobxbxxo": [
+        3,
+        5,
+        0,
+        1
+    ],
+    "bbobxobxx": [
+        6,
+        3,
+        0,
+        1
+    ],
+    "bbobxoxbx": [
+        7,
+        3,
+        0,
+        1
+    ],
+    "bbobxoxxb": [
+        8,
+        3,
+        0,
+        1
+    ],
+    "bbobxxbox": [
+        6,
+        3,
+        0,
+        1
+    ],
+    "bbobxxbxo": [
+        6,
+        3,
+        0,
+        1
+    ],
+    "bbobxxobx": [
+        7,
+        3,
+        0,
+        1
+    ],
+    "bbobxxoxb": [
+        8,
+        3,
+        0,
+        1
+    ],
+    "bbobxxxbo": [
+        7,
+        3,
+        0,
+        1
+    ],
+    "bbobxxxob": [
+        8,
+        3,
+        0,
+        1
+    ],
+    "bboobxbxx": [
+        4,
+        6,
+        0,
+        1
+    ],
+    "bboobxxbx": [
+        4,
+        7,
+        0,
+        1
+    ],
+    "bboobxxxb": [
+        4,
+        8,
+        0,
+        1
+    ],
+    "bbooxbbxx": [
+        6,
+        5,
+        0,
+        1
+    ],
+    "bbooxbxbx": [
+        7,
+        5,
+        0,
+        1
+    ],
+    "bbooxbxxb": [
+        8,
+        5,
+        0,
+        1
+    ],
+    "bbooxxbbx": [
+        6,
+        7,
+        0,
+        1
+    ],
+    "bbooxxbxb": [
+        8,
+        6,
+        0,
+        1
+    ],
+    "bbooxxxbb": [
+        8,
+        7,
+        0,
+        1
+    ],
+    "bboxbboxx": [
+        4,
+        5,
+        0,
+        1
+    ],
+    "bboxbbxox": [
+        4,
+        5,
+        0,
+        1
+    ],
+    "bboxbbxxo": [
+        4,
+        5,
+        0,
+        1
+    ],
+    "bboxbobxx": [
+        4,
+        6,
+        0,
+        1
+    ],
+    "bboxboxbx": [
+        4,
+        7,
+        0,
+        1
+    ],
+    "bboxboxxb": [
+        4,
+        8,
+        0,
+        1
+    ],
+    "bboxbxbox": [
+        4,
+        6,
+        0,
+        1
+    ],
+    "bboxbxbxo": [
+        4,
+        6,
+        0,
+        1
+    ],
+    "bboxbxobx": [
+        4,
+        7,
+        0,
+        1
+    ],
+    "bboxbxoxb": [
+        4,
+        8,
+        0,
+        1
+    ],
+    "bboxbxxbo": [
+        4,
+        7,
+        0,
+        1
+    ],
+    "bboxbxxob": [
+        4,
+        8,
+        0,
+        1
+    ],
+    "bboxobbxx": [
+        6,
+        5,
+        0,
+        1
+    ],
+    "bboxobxbx": [
+        7,
+        5,
+        0,
+        1
+    ],
+    "bboxobxxb": [
+        8,
+        5,
+        0,
+        1
+    ],
+    "bboxoxbbx": [
+        6,
+        7,
+        0,
+        1
+    ],
+    "bboxoxbxb": [
+        8,
+        6,
+        0,
+        1
+    ],
+    "bboxoxxbb": [
+        8,
+        7,
+        0,
+        1
+    ],
+    "bboxxbbox": [
+        6,
+        5,
+        0,
+        1
+    ],
+    "bboxxbbxo": [
+        6,
+        5,
+        0,
+        1
+    ],
+    "bboxxbobx": [
+        7,
+        5,
+        0,
+        1
+    ],
+    "bboxxboxb": [
+        8,
+        5,
+        0,
+        1
+    ],
+    "bboxxbxbo": [
+        7,
+        5,
+        0,
+        1
+    ],
+    "bboxxbxob": [
+        8,
+        5,
+        0,
+        1
+    ],
+    "bboxxobbx": [
+        6,
+        7,
+        0,
+        1
+    ],
+    "bboxxobxb": [
+        8,
+        6,
+        0,
+        1
+    ],
+    "bboxxoxbb": [
+        8,
+        7,
+        0,
+        1
+    ],
+    "bbxbbooxx": [
+        4,
+        3,
+        0,
+        1
+    ],
+    "bbxbboxox": [
+        4,
+        3,
+        0,
+        1
+    ],
+    "bbxbboxxo": [
+        4,
+        3,
+        0,
+        1
+    ],
+    "bbxbbxoxo": [
+        4,
+        3,
+        0,
+        1
+    ],
+    "bbxbbxxoo": [
+        4,
+        3,
+        0,
+        1
+    ],
+    "bbxboboxx": [
+        3,
+        5,
+        0,
+        1
+    ],
+    "bbxbobxox": [
+        3,
+        5,
+        0,
+        1
+    ],
+    "bbxbobxxo": [
+        3,
+        5,
+        0,
+        1
+    ],
+    "bbxboobxx": [
+        6,
+        3,
+        0,
+        1
+    ],
+    "bbxbooxbx": [
+        7,
+        3,
+        0,
+        1
+    ],
+    "bbxbooxxb": [
+        8,
+        3,
+        0,
+        1
+    ],
+    "bbxboxbxo": [
+        6,
+        3,
+        0,
+        1
+    ],
+    "bbxboxoxb": [
+        8,
+        3,
+        0,
+        1
+    ],
+    "bbxboxxbo": [
+        7,
+        3,
+        0,
+        1
+    ],
+    "bbxboxxob": [
+        8,
+        3,
+        0,
+        1
+    ],
+    "bbxbxboox": [
+        3,
+        5,
+        0,
+        1
+    ],
+    "bbxbxboxo": [
+        3,
+        5,
+        0,
+        1
+    ],
+    "bbxbxobox": [
+        6,
+        3,
+        0,
+        1
+    ],
+    "bbxbxobxo": [
+        6,
+        3,
+        0,
+        1
+    ],
+    "bbxbxoobx": [
+        7,
+        3,
+        0,
+        1
+    ],
+    "bbxbxooxb": [
+        8,
+        3,
+        0,
+        1
+    ],
+    "bbxbxxboo": [
+        6,
+        3,
+        0,
+        1
+    ],
+    "bbxbxxobo": [
+        7,
+        3,
+        0,
+        1
+    ],
+    "bbxbxxoob": [
+        8,
+        3,
+        0,
+        1
+    ],
+    "bbxobboxx": [
+        4,
+        5,
+        0,
+        1
+    ],
+    "bbxobbxox": [
+        4,
+        5,
+        0,
+        1
+    ],
+    "bbxobbxxo": [
+        4,
+        5,
+        0,
+        1
+    ],
+    "bbxobobxx": [
+        4,
+        6,
+        0,
+        1
+    ],
+    "bbxoboxbx": [
+        4,
+        7,
+        0,
+        1
+    ],
+    "bbxoboxxb": [
+        4,
+        8,
+        0,
+        1
+    ],
+    "bbxobxbxo": [
+        4,
+        6,
+        0,
+        1
+    ],
+    "bbxobxoxb": [
+        4,
+        8,
+        0,
+        1
+    ],
+    "bbxobxxbo": [
+        4,
+        7,
+        0,
+        1
+    ],
+    "bbxobxxob": [
+        4,
+        8,
+        0,
+        1
+    ],
+    "bbxoobbxx": [
+        6,
+        5,
+        0,
+        1
+    ],
+    "bbxoobxbx": [
+        7,
+        5,
+        0,
+        1
+    ],
+    "bbxoobxxb": [
+        8,
+        5,
+        0,
+        1
+    ],
+    "bbxooxbxb": [
+        8,
+        6,
+        0,
+        1
+    ],
+    "bbxooxxbb": [
+        8,
+        7,
+        0,
+        1
+    ],
+    "bbxoxbbox": [
+        6,
+        5,
+        0,
+        1
+    ],
+    "bbxoxbbxo": [
+        6,
+        5,
+        0,
+        1
+    ],
+    "bbxoxbobx": [
+        7,
+        5,
+        0,
+        1
+    ],
+    "bbxoxboxb": [
+        8,
+        5,
+        0,
+        1
+    ],
+    "bbxoxobbx": [
+        6,
+        7,
+        0,
+        1
+    ],
+    "bbxoxobxb": [
+        8,
+        6,
+        0,
+        1
+    ],
+    "bbxoxxbbo": [
+        6,
+        7,
+        0,
+        1
+    ],
+    "bbxoxxbob": [
+        8,
+        6,
+        0,
+        1
+    ],
+    "bbxoxxobb": [
+        8,
+        7,
+        0,
+        1
+    ],
+    "bbxxbboox": [
+        4,
+        5,
+        0,
+        1
+    ],
+    "bbxxbboxo": [
+        4,
+        5,
+        0,
+        1
+    ],
+    "bbxxbbxoo": [
+        4,
+        5,
+        0,
+        1
+    ],
+    "bbxxbobox": [
+        4,
+        6,
+        0,
+        1
+    ],
+    "bbxxbobxo": [
+        4,
+        6,
+        0,
+        1
+    ],
+    "bbxxboobx": [
+        4,
+        7,
+        0,
+        1
+    ],
+    "bbxxbooxb": [
+        4,
+        8,
+        0,
+        1
+    ],
+    "bbxxboxbo": [
+        4,
+        7,
+        0,
+        1
+    ],
+    "bbxxboxob": [
+        4,
+        8,
+        0,
+        1
+    ],
+    "bbxxbxboo": [
+        4,
+        6,
+        0,
+        1
+    ],
+    "bbxxbxobo": [
+        4,
+        7,
+        0,
+        1
+    ],
+    "bbxxbxoob": [
+        4,
+        8,
+        0,
+        1
+    ],
+    "bbxxobbox": [
+        6,
+        5,
+        0,
+        1
+    ],
+    "bbxxobbxo": [
+        6,
+        5,
+        0,
+        1
+    ],
+    "bbxxobobx": [
+        7,
+        5,
+        0,
+        1
+    ],
+    "bbxxoboxb": [
+        8,
+        5,
+        0,
+        1
+    ],
+    "bbxxobxbo": [
+        7,
+        5,
+        0,
+        1
+    ],
+    "bbxxobxob": [
+        8,
+        5,
+        0,
+        1
+    ],
+    "bbxxoobbx": [
+        6,
+        7,
+        0,
+        1
+    ],
+    "bbxxoobxb": [
+        8,
+        6,
+        0,
+        1
+    ],
+    "bbxxooxbb": [
+        8,
+        7,
+        0,
+        1
+    ],
+    "bbxxoxbbo": [
+        6,
+        7,
+        0,
+        1
+    ],
+    "bbxxoxbob": [
+        8,
+        6,
+        0,
+        1
+    ],
+    "bbxxoxobb": [
+        8,
+        7,
+        0,
+        1
+    ],
+    "bbxxxbboo": [
+        6,
+        5,
+        0,
+        1
+    ],
+    "bbxxxbobo": [
+        7,
+        5,
+        0,
+        1
+    ],
+    "bbxxxboob": [
+        8,
+        5,
+        0,
+        1
+    ],
+    "bbxxxobbo": [
+        6,
+        7,
+        0,
+        1
+    ],
+    "bbxxxobob": [
+        8,
+        6,
+        0,
+        1
+    ],
+    "bbxxxoobb": [
+        8,
+        7,
+        0,
+        1
+    ],
+    "bobbbxoxx": [
+        2,
+        4,
+        0,
+        3
+    ],
+    "bobbbxxox": [
+        2,
+        4,
+        0,
+        3
+    ],
+    "bobbbxxxo": [
+        2,
+        4,
+        0,
+        3
+    ],
+    "bobboxbxx": [
+        2,
+        6,
+        0,
+        3
+    ],
+    "bobboxxbx": [
+        2,
+        7,
+        0,
+        3
+    ],
+    "bobboxxxb": [
+        2,
+        8,
+        0,
+        3
+    ],
+    "bobbxboxx": [
+        2,
+        5,
+        0,
+        3
+    ],
+    "bobbxbxox": [
+        2,
+        5,
+        0,
+        3
+    ],
+    "bobbxbxxo": [
+        2,
+        5,
+        0,
+        3
+    ],
+    "bobbxobxx": [
+        2,
+        6,
+        0,
+        3
+    ],
+    "bobbxoxbx": [
+        2,
+        7,
+        0,
+        3
+    ],
+    "bobbxoxxb": [
+        2,
+        8,
+        0,
+        3
+    ],
+    "bobbxxbox": [
+        2,
+        6,
+        0,
+        3
+    ],
+    "bobbxxbxo": [
+        2,
+        6,
+        0,
+        3
+    ],
+    "bobbxxobx": [
+        2,
+        7,
+        0,
+        3
+    ],
+    "bobbxxoxb": [
+        2,
+        8,
+        0,
+        3
+    ],
+    "bobbxxxbo": [
+        2,
+        7,
+        0,
+        3
+    ],
+    "bobbxxxob": [
+        2,
+        8,
+        0,
+        3
+    ],
+    "bobobxbxx": [
+        2,
+        6,
+        4,
+        0
+    ],
+    "bobobxxbx": [
+        2,
+        4,
+        7,
+        0
+    ],
+    "bobobxxxb": [
+        2,
+        8,
+        4,
+        0
+    ],
+    "boboxbbxx": [
+        2,
+        6,
+        5,
+        0
+    ],
+    "boboxbxbx": [
+        2,
+        7,
+        5,
+        0
+    ],
+    "boboxbxxb": [
+        2,
+        8,
+        5,
+        0
+    ],
+    "boboxxbbx": [
+        2,
+        6,
+        7,
+        0
+    ],
+    "boboxxbxb": [
+        8,
+        2,
+        6,
+        0
+    ],
+    "boboxxxbb": [
+        2,
+        8,
+        7,
+        0
+    ],
+    "bobxbboxx": [
+        2,
+        4,
+        5,
+        0
+    ],
+    "bobxbbxox": [
+        2,
+        4,
+        5,
+        0
+    ],
+    "bobxbbxxo": [
+        2,
+        4,
+        5,
+        0
+    ],
+    "bobxbobxx": [
+        2,
+        6,
+        4,
+        0
+    ],
+    "bobxboxbx": [
+        2,
+        4,
+        7,
+        0
+    ],
+    "bobxboxxb": [
+        2,
+        8,
+        4,
+        0
+    ],
+    "bobxbxbox": [
+        2,
+        6,
+        4,
+        0
+    ],
+    "bobxbxbxo": [
+        2,
+        6,
+        4,
+        0
+    ],
+    "bobxbxobx": [
+        2,
+        4,
+        7,
+        0
+    ],
+    "bobxbxoxb": [
+        2,
+        8,
+        4,
+        0
+    ],
+    "bobxbxxbo": [
+        2,
+        4,
+        7,
+        0
+    ],
+    "bobxbxxob": [
+        2,
+        8,
+        4,
+        0
+    ],
+    "bobxobbxx": [
+        2,
+        6,
+        5,
+        0
+    ],
+    "bobxobxbx": [
+        2,
+        7,
+        5,
+        0
+    ],
+    "bobxobxxb": [
+        2,
+        8,
+        5,
+        0
+    ],
+    "bobxoxbbx": [
+        2,
+        6,
+        7,
+        0
+    ],
+    "bobxoxbxb": [
+        8,
+        2,
+        6,
+        0
+    ],
+    "bobxoxxbb": [
+        2,
+        8,
+        7,
+        0
+    ],
+    "bobxxbbox": [
+        2,
+        6,
+        5,
+        0
+    ],
+    "bobxxbbxo": [
+        2,
+        6,
+        5,
+        0
+    ],
+    "bobxxbobx": [
+        2,
+        7,
+        5,
+        0
+    ],
+    "bobxxboxb": [
+        2,
+        8,
+        5,
+        0
+    ],
+    "bobxxbxbo": [
+        2,
+        7,
+        5,
+        0
+    ],
+    "bobxxbxob": [
+        2,
+        8,
+        5,
+        0
+    ],
+    "bobxxobbx": [
+        2,
+        6,
+        7,
+        0
+    ],
+    "bobxxobxb": [
+        8,
+        2,
+        6,
+        0
+    ],
+    "bobxxoxbb": [
+        2,
+        8,
+        7,
+        0
+    ],
+    "boobbxbxx": [
+        4,
+        6,
+        0,
+        3
+    ],
+    "boobbxxbx": [
+        4,
+        7,
+        0,
+        3
+    ],
+    "boobbxxxb": [
+        4,
+        8,
+        0,
+        3
+    ],
+    "boobxbbxx": [
+        6,
+        5,
+        0,
+        3
+    ],
+    "boobxbxbx": [
+        7,
+        5,
+        0,
+        3
+    ],
+    "boobxbxxb": [
+        8,
+        5,
+        0,
+        3
+    ],
+    "boobxxbbx": [
+        6,
+        7,
+        0,
+        3
+    ],
+    "boobxxbxb": [
+        8,
+        6,
+        0,
+        3
+    ],
+    "boobxxxbb": [
+        8,
+        7,
+        0,
+        3
+    ],
+    "booxbbbxx": [
+        4,
+        6,
+        5,
+        0
+    ],
+    "booxbbxbx": [
+        4,
+        7,
+        5,
+        0
+    ],
+    "booxbbxxb": [
+        4,
+        8,
+        5,
+        0
+    ],
+    "booxbxbbx": [
+        4,
+        6,
+        7,
+        0
+    ],
+    "booxbxbxb": [
+        8,
+        4,
+        6,
+        0
+    ],
+    "booxbxxbb": [
+        4,
+        8,
+        7,
+        0
+    ],
+    "booxxbbbx": [
+        6,
+        7,
+        5,
+        0
+    ],
+    "booxxbbxb": [
+        8,
+        6,
+        5,
+        0
+    ],
+    "booxxbxbb": [
+        8,
+        7,
+        5,
+        0
+    ],
+    "boxbbboxx": [
+        4,
+        5,
+        0,
+        3
+    ],
+    "boxbbbxox": [
+        4,
+        5,
+        0,
+        3
+    ],
+    "boxbbbxxo": [
+        4,
+        5,
+        0,
+        3
+    ],
+    "boxbbobxx": [
+        4,
+        6,
+        0,
+        3
+    ],
+    "boxbboxbx": [
+        4,
+        7,
+        0,
+        3
+    ],
+    "boxbboxxb": [
+        4,
+        8,
+        0,
+        3
+    ],
+    "boxbbxbxo": [
+        4,
+        6,
+        0,
+        3
+    ],
+    "boxbbxoxb": [
+        4,
+        8,
+        0,
+        3
+    ],
+    "boxbbxxbo": [
+        4,
+        7,
+        0,
+        3
+    ],
+    "boxbbxxob": [
+        4,
+        8,
+        0,
+        3
+    ],
+    "boxbobbxx": [
+        6,
+        5,
+        0,
+        3
+    ],
+    "boxbobxbx": [
+        7,
+        5,
+        0,
+        3
+    ],
+    "boxbobxxb": [
+        8,
+        5,
+        0,
+        3
+    ],
+    "boxboxbxb": [
+        8,
+        6,
+        0,
+        3
+    ],
+    "boxboxxbb": [
+        8,
+        7,
+        0,
+        3
+    ],
+    "boxbxbbox": [
+        6,
+        5,
+        0,
+        3
+    ],
+    "boxbxbbxo": [
+        6,
+        5,
+        0,
+        3
+    ],
+    "boxbxbobx": [
+        7,
+        5,
+        0,
+        3
+    ],
+    "boxbxboxb": [
+        8,
+        5,
+        0,
+        3
+    ],
+    "boxbxobbx": [
+        6,
+        7,
+        0,
+        3
+    ],
+    "boxbxobxb": [
+        8,
+        6,
+        0,
+        3
+    ],
+    "boxbxxbbo": [
+        6,
+        7,
+        0,
+        3
+    ],
+    "boxbxxbob": [
+        8,
+        6,
+        0,
+        3
+    ],
+    "boxbxxobb": [
+        8,
+        7,
+        0,
+        3
+    ],
+    "boxobbbxx": [
+        4,
+        6,
+        5,
+        0
+    ],
+    "boxobbxbx": [
+        4,
+        7,
+        5,
+        0
+    ],
+    "boxobbxxb": [
+        4,
+        8,
+        5,
+        0
+    ],
+    "boxobxbxb": [
+        8,
+        4,
+        6,
+        0
+    ],
+    "boxobxxbb": [
+        4,
+        8,
+        7,
+        0
+    ],
+    "boxoxbbbx": [
+        6,
+        7,
+        5,
+        0
+    ],
+    "boxoxbbxb": [
+        8,
+        6,
+        5,
+        0
+    ],
+    "boxoxxbbb": [
+        8,
+        6,
+        7,
+        0
+    ],
+    "boxxbbbox": [
+        4,
+        6,
+        5,
+        0
+    ],
+    "boxxbbbxo": [
+        4,
+        6,
+        5,
+        0
+    ],
+    "boxxbbobx": [
+        4,
+        7,
+        5,
+        0
+    ],
+    "boxxbboxb": [
+        4,
+        8,
+        5,
+        0
+    ],
+    "boxxbbxbo": [
+        4,
+        7,
+        5,
+        0
+    ],
+    "boxxbbxob": [
+        4,
+        8,
+        5,
+        0
+    ],
+    "boxxbobbx": [
+        4,
+        6,
+        7,
+        0
+    ],
+    "boxxbobxb": [
+        8,
+        4,
+        6,
+        0
+    ],
+    "boxxboxbb": [
+        4,
+        8,
+        7,
+        0
+    ],
+    "boxxbxbbo": [
+        4,
+        6,
+        7,
+        0
+    ],
+    "boxxbxbob": [
+        8,
+        4,
+        6,
+        0
+    ],
+    "boxxbxobb": [
+        4,
+        8,
+        7,
+        0
+    ],
+    "boxxobbbx": [
+        6,
+        7,
+        5,
+        0
+    ],
+    "boxxobbxb": [
+        8,
+        6,
+        5,
+        0
+    ],
+    "boxxobxbb": [
+        8,
+        7,
+        5,
+        0
+    ],
+    "boxxoxbbb": [
+        8,
+        6,
+        7,
+        0
+    ],
+    "boxxxbbbo": [
+        6,
+        7,
+        5,
+        0
+    ],
+    "boxxxbbob": [
+        8,
+        6,
+        5,
+        0
+    ],
+    "boxxxbobb": [
+        8,
+        7,
+        5,
+        0
+    ],
+    "boxxxobbb": [
+        8,
+        6,
+        7,
+        0
+    ],
+    "bxbbbooxx": [
+        2,
+        4,
+        0,
+        3
+    ],
+    "bxbbboxox": [
+        2,
+        4,
+        0,
+        3
+    ],
+    "bxbbboxxo": [
+        2,
+        4,
+        0,
+        3
+    ],
+    "bxbbbxoox": [
+        2,
+        4,
+        0,
+        3
+    ],
+    "bxbbbxoxo": [
+        2,
+        4,
+        0,
+        3
+    ],
+    "bxbbbxxoo": [
+        2,
+        4,
+        0,
+        3
+    ],
+    "bxbboboxx": [
+        2,
+        5,
+        0,
+        3
+    ],
+    "bxbbobxox": [
+        2,
+        5,
+        0,
+        3
+    ],
+    "bxbbobxxo": [
+        2,
+        5,
+        0,
+        3
+    ],
+    "bxbboobxx": [
+        2,
+        6,
+        0,
+        3
+    ],
+    "bxbbooxbx": [
+        2,
+        7,
+        0,
+        3
+    ],
+    "bxbbooxxb": [
+        2,
+        8,
+        0,
+        3
+    ],
+    "bxbboxbox": [
+        2,
+        6,
+        0,
+        3
+    ],
+    "bxbboxbxo": [
+        2,
+        6,
+        0,
+        3
+    ],
+    "bxbboxobx": [
+        2,
+        7,
+        0,
+        3
+    ],
+    "bxbboxoxb": [
+        2,
+        8,
+        0,
+        3
+    ],
+    "bxbboxxbo": [
+        2,
+        7,
+        0,
+        3
+    ],
+    "bxbboxxob": [
+        2,
+        8,
+        0,
+        3
+    ],
+    "bxbbxboox": [
+        2,
+        5,
+        0,
+        3
+    ],
+    "bxbbxbxoo": [
+        2,
+        5,
+        0,
+        3
+    ],
+    "bxbbxobox": [
+        2,
+        6,
+        0,
+        3
+    ],
+    "bxbbxoobx": [
+        2,
+        7,
+        0,
+        3
+    ],
+    "bxbbxoxbo": [
+        2,
+        7,
+        0,
+        3
+    ],
+    "bxbbxoxob": [
+        2,
+        8,
+        0,
+        3
+    ],
+    "bxbbxxboo": [
+        2,
+        6,
+        0,
+        3
+    ],
+    "bxbbxxobo": [
+        2,
+        7,
+        0,
+        3
+    ],
+    "bxbbxxoob": [
+        2,
+        8,
+        0,
+        3
+    ],
+    "bxbobboxx": [
+        2,
+        4,
+        5,
+        0
+    ],
+    "bxbobbxox": [
+        2,
+        4,
+        5,
+        0
+    ],
+    "bxbobbxxo": [
+        2,
+        4,
+        5,
+        0
+    ],
+    "bxbobobxx": [
+        2,
+        6,
+        4,
+        0
+    ],
+    "bxboboxbx": [
+        2,
+        4,
+        7,
+        0
+    ],
+    "bxboboxxb": [
+        2,
+        8,
+        4,
+        0
+    ],
+    "bxbobxbox": [
+        2,
+        6,
+        4,
+        0
+    ],
+    "bxbobxbxo": [
+        2,
+        6,
+        4,
+        0
+    ],
+    "bxbobxobx": [
+        2,
+        4,
+        7,
+        0
+    ],
+    "bxbobxoxb": [
+        2,
+        8,
+        4,
+        0
+    ],
+    "bxbobxxbo": [
+        2,
+        4,
+        7,
+        0
+    ],
+    "bxbobxxob": [
+        2,
+        8,
+        4,
+        0
+    ],
+    "bxboobbxx": [
+        2,
+        6,
+        5,
+        0
+    ],
+    "bxboobxbx": [
+        2,
+        7,
+        5,
+        0
+    ],
+    "bxboobxxb": [
+        2,
+        8,
+        5,
+        0
+    ],
+    "bxbooxbbx": [
+        2,
+        6,
+        7,
+        0
+    ],
+    "bxbooxbxb": [
+        8,
+        2,
+        6,
+        0
+    ],
+    "bxbooxxbb": [
+        2,
+        8,
+        7,
+        0
+    ],
+    "bxboxbbox": [
+        2,
+        6,
+        5,
+        0
+    ],
+    "bxboxbobx": [
+        2,
+        7,
+        5,
+        0
+    ],
+    "bxboxbxbo": [
+        2,
+        7,
+        5,
+        0
+    ],
+    "bxboxbxob": [
+        2,
+        8,
+        5,
+        0
+    ],
+    "bxboxobbx": [
+        2,
+        6,
+        7,
+        0
+    ],
+    "bxboxoxbb": [
+        2,
+        8,
+        7,
+        0
+    ],
+    "bxboxxbbo": [
+        2,
+        6,
+        7,
+        0
+    ],
+    "bxboxxbob": [
+        8,
+        2,
+        6,
+        0
+    ],
+    "bxboxxobb": [
+        2,
+        8,
+        7,
+        0
+    ],
+    "bxbxbboox": [
+        2,
+        4,
+        5,
+        0
+    ],
+    "bxbxbboxo": [
+        2,
+        4,
+        5,
+        0
+    ],
+    "bxbxbbxoo": [
+        2,
+        4,
+        5,
+        0
+    ],
+    "bxbxbobox": [
+        2,
+        6,
+        4,
+        0
+    ],
+    "bxbxbobxo": [
+        2,
+        6,
+        4,
+        0
+    ],
+    "bxbxboobx": [
+        2,
+        4,
+        7,
+        0
+    ],
+    "bxbxbooxb": [
+        2,
+        8,
+        4,
+        0
+    ],
+    "bxbxboxbo": [
+        2,
+        4,
+        7,
+        0
+    ],
+    "bxbxboxob": [
+        2,
+        8,
+        4,
+        0
+    ],
+    "bxbxbxboo": [
+        2,
+        6,
+        4,
+        0
+    ],
+    "bxbxbxobo": [
+        2,
+        4,
+        7,
+        0
+    ],
+    "bxbxbxoob": [
+        2,
+        8,
+        4,
+        0
+    ],
+    "bxbxobbox": [
+        2,
+        6,
+        5,
+        0
+    ],
+    "bxbxobbxo": [
+        2,
+        6,
+        5,
+        0
+    ],
+    "bxbxobobx": [
+        2,
+        7,
+        5,
+        0
+    ],
+    "bxbxoboxb": [
+        2,
+        8,
+        5,
+        0
+    ],
+    "bxbxobxbo": [
+        2,
+        7,
+        5,
+        0
+    ],
+    "bxbxobxob": [
+        2,
+        8,
+        5,
+        0
+    ],
+    "bxbxoobbx": [
+        2,
+        6,
+        7,
+        0
+    ],
+    "bxbxoobxb": [
+        8,
+        2,
+        6,
+        0
+    ],
+    "bxbxooxbb": [
+        2,
+        8,
+        7,
+        0
+    ],
+    "bxbxoxbbo": [
+        2,
+        6,
+        7,
+        0
+    ],
+    "bxbxoxbob": [
+        8,
+        2,
+        6,
+        0
+    ],
+    "bxbxoxobb": [
+        2,
+        8,
+        7,
+        0
+    ],
+    "bxbxxbboo": [
+        2,
+        6,
+        5,
+        0
+    ],
+    "bxbxxbobo": [
+        2,
+        7,
+        5,
+        0
+    ],
+    "bxbxxboob": [
+        2,
+        8,
+        5,
+        0
+    ],
+    "bxbxxobbo": [
+        2,
+        6,
+        7,
+        0
+    ],
+    "bxbxxobob": [
+        8,
+        2,
+        6,
+        0
+    ],
+    "bxbxxoobb": [
+        2,
+        8,
+        7,
+        0
+    ],
+    "bxobbboxx": [
+        4,
+        5,
+        0,
+        3
+    ],
+    "bxobbbxox": [
+        4,
+        5,
+        0,
+        3
+    ],
+    "bxobbbxxo": [
+        4,
+        5,
+        0,
+        3
+    ],
+    "bxobbobxx": [
+        4,
+        6,
+        0,
+        3
+    ],
+    "bxobboxbx": [
+        4,
+        7,
+        0,
+        3
+    ],
+    "bxobboxxb": [
+        4,
+        8,
+        0,
+        3
+    ],
+    "bxobbxbox": [
+        4,
+        6,
+        0,
+        3
+    ],
+    "bxobbxbxo": [
+        4,
+        6,
+        0,
+        3
+    ],
+    "bxobbxobx": [
+        4,
+        7,
+        0,
+        3
+    ],
+    "bxobbxoxb": [
+        4,
+        8,
+        0,
+        3
+    ],
+    "bxobbxxbo": [
+        4,
+        7,
+        0,
+        3
+    ],
+    "bxobbxxob": [
+        4,
+        8,
+        0,
+        3
+    ],
+    "bxobobbxx": [
+        6,
+        5,
+        0,
+        3
+    ],
+    "bxobobxbx": [
+        7,
+        5,
+        0,
+        3
+    ],
+    "bxobobxxb": [
+        8,
+        5,
+        0,
+        3
+    ],
+    "bxoboxbbx": [
+        6,
+        7,
+        0,
+        3
+    ],
+    "bxoboxbxb": [
+        8,
+        6,
+        0,
+        3
+    ],
+    "bxoboxxbb": [
+        8,
+        7,
+        0,
+        3
+    ],
+    "bxobxbbox": [
+        6,
+        5,
+        0,
+        3
+    ],
+    "bxobxbobx": [
+        7,
+        5,
+        0,
+        3
+    ],
+    "bxobxbxbo": [
+        7,
+        5,
+        0,
+        3
+    ],
+    "bxobxbxob": [
+        8,
+        5,
+        0,
+        3
+    ],
+    "bxobxobbx": [
+        6,
+        7,
+        0,
+        3
+    ],
+    "bxobxoxbb": [
+        8,
+        7,
+        0,
+        3
+    ],
+    "bxobxxbbo": [
+        6,
+        7,
+        0,
+        3
+    ],
+    "bxobxxbob": [
+        8,
+        6,
+        0,
+        3
+    ],
+    "bxobxxobb": [
+        8,
+        7,
+        0,
+        3
+    ],
+    "bxoobbbxx": [
+        4,
+        6,
+        5,
+        0
+    ],
+    "bxoobbxbx": [
+        4,
+        7,
+        5,
+        0
+    ],
+    "bxoobbxxb": [
+        4,
+        8,
+        5,
+        0
+    ],
+    "bxoobxbbx": [
+        4,
+        6,
+        7,
+        0
+    ],
+    "bxoobxbxb": [
+        8,
+        4,
+        6,
+        0
+    ],
+    "bxoobxxbb": [
+        4,
+        8,
+        7,
+        0
+    ],
+    "bxooxbbbx": [
+        6,
+        7,
+        5,
+        0
+    ],
+    "bxooxbxbb": [
+        8,
+        7,
+        5,
+        0
+    ],
+    "bxooxxbbb": [
+        8,
+        6,
+        7,
+        0
+    ],
+    "bxoxbbbox": [
+        4,
+        6,
+        5,
+        0
+    ],
+    "bxoxbbbxo": [
+        4,
+        6,
+        5,
+        0
+    ],
+    "bxoxbbobx": [
+        4,
+        7,
+        5,
+        0
+    ],
+    "bxoxbboxb": [
+        4,
+        8,
+        5,
+        0
+    ],
+    "bxoxbbxbo": [
+        4,
+        7,
+        5,
+        0
+    ],
+    "bxoxbbxob": [
+        4,
+        8,
+        5,
+        0
+    ],
+    "bxoxbobbx": [
+        4,
+        6,
+        7,
+        0
+    ],
+    "bxoxbobxb": [
+        8,
+        4,
+        6,
+        0
+    ],
+    "bxoxboxbb": [
+        4,
+        8,
+        7,
+        0
+    ],
+    "bxoxbxbbo": [
+        4,
+        6,
+        7,
+        0
+    ],
+    "bxoxbxbob": [
+        8,
+        4,
+        6,
+        0
+    ],
+    "bxoxbxobb": [
+        4,
+        8,
+        7,
+        0
+    ],
+    "bxoxobbbx": [
+        6,
+        7,
+        5,
+        0
+    ],
+    "bxoxobbxb": [
+        8,
+        6,
+        5,
+        0
+    ],
+    "bxoxobxbb": [
+        8,
+        7,
+        5,
+        0
+    ],
+    "bxoxoxbbb": [
+        8,
+        6,
+        7,
+        0
+    ],
+    "bxoxxbbbo": [
+        6,
+        7,
+        5,
+        0
+    ],
+    "bxoxxbbob": [
+        8,
+        6,
+        5,
+        0
+    ],
+    "bxoxxbobb": [
+        8,
+        7,
+        5,
+        0
+    ],
+    "bxoxxobbb": [
+        8,
+        6,
+        7,
+        0
+    ],
+    "bxxbbboox": [
+        4,
+        5,
+        0,
+        3
+    ],
+    "bxxbbboxo": [
+        4,
+        5,
+        0,
+        3
+    ],
+    "bxxbbbxoo": [
+        4,
+        5,
+        0,
+        3
+    ],
+    "bxxbbobox": [
+        4,
+        6,
+        0,
+        3
+    ],
+    "bxxbbobxo": [
+        4,
+        6,
+        0,
+        3
+    ],
+    "bxxbboobx": [
+        4,
+        7,
+        0,
+        3
+    ],
+    "bxxbbooxb": [
+        4,
+        8,
+        0,
+        3
+    ],
+    "bxxbboxbo": [
+        4,
+        7,
+        0,
+        3
+    ],
+    "bxxbboxob": [
+        4,
+        8,
+        0,
+        3
+    ],
+    "bxxbbxboo": [
+        4,
+        6,
+        0,
+        3
+    ],
+    "bxxbbxobo": [
+        4,
+        7,
+        0,
+        3
+    ],
+    "bxxbbxoob": [
+        4,
+        8,
+        0,
+        3
+    ],
+    "bxxbobbox": [
+        6,
+        5,
+        0,
+        3
+    ],
+    "bxxbobbxo": [
+        6,
+        5,
+        0,
+        3
+    ],
+    "bxxbobobx": [
+        7,
+        5,
+        0,
+        3
+    ],
+    "bxxboboxb": [
+        8,
+        5,
+        0,
+        3
+    ],
+    "bxxbobxbo": [
+        7,
+        5,
+        0,
+        3
+    ],
+    "bxxbobxob": [
+        8,
+        5,
+        0,
+        3
+    ],
+    "bxxboobbx": [
+        6,
+        7,
+        0,
+        3
+    ],
+    "bxxboobxb": [
+        8,
+        6,
+        0,
+        3
+    ],
+    "bxxbooxbb": [
+        8,
+        7,
+        0,
+        3
+    ],
+    "bxxboxbbo": [
+        6,
+        7,
+        0,
+        3
+    ],
+    "bxxboxbob": [
+        8,
+        6,
+        0,
+        3
+    ],
+    "bxxboxobb": [
+        8,
+        7,
+        0,
+        3
+    ],
+    "bxxbxbboo": [
+        6,
+        5,
+        0,
+        3
+    ],
+    "bxxbxbobo": [
+        7,
+        5,
+        0,
+        3
+    ],
+    "bxxbxboob": [
+        8,
+        5,
+        0,
+        3
+    ],
+    "bxxbxobbo": [
+        6,
+        7,
+        0,
+        3
+    ],
+    "bxxbxobob": [
+        8,
+        6,
+        0,
+        3
+    ],
+    "bxxbxoobb": [
+        8,
+        7,
+        0,
+        3
+    ],
+    "bxxobbbox": [
+        4,
+        6,
+        5,
+        0
+    ],
+    "bxxobbbxo": [
+        4,
+        6,
+        5,
+        0
+    ],
+    "bxxobbobx": [
+        4,
+        7,
+        5,
+        0
+    ],
+    "bxxobboxb": [
+        4,
+        8,
+        5,
+        0
+    ],
+    "bxxobbxbo": [
+        4,
+        7,
+        5,
+        0
+    ],
+    "bxxobbxob": [
+        4,
+        8,
+        5,
+        0
+    ],
+    "bxxobobbx": [
+        4,
+        6,
+        7,
+        0
+    ],
+    "bxxobobxb": [
+        8,
+        4,
+        6,
+        0
+    ],
+    "bxxoboxbb": [
+        4,
+        8,
+        7,
+        0
+    ],
+    "bxxobxbbo": [
+        4,
+        6,
+        7,
+        0
+    ],
+    "bxxobxbob": [
+        8,
+        4,
+        6,
+        0
+    ],
+    "bxxobxobb": [
+        4,
+        8,
+        7,
+        0
+    ],
+    "bxxoobbbx": [
+        6,
+        7,
+        5,
+        0
+    ],
+    "bxxoobbxb": [
+        8,
+        6,
+        5,
+        0
+    ],
+    "bxxoobxbb": [
+        8,
+        7,
+        5,
+        0
+    ],
+    "bxxooxbbb": [
+        8,
+        6,
+        7,
+        0
+    ],
+    "bxxoxbbbo": [
+        6,
+        7,
+        5,
+        0
+    ],
+    "bxxoxbbob": [
+        8,
+        6,
+        5,
+        0
+    ],
+    "bxxoxbobb": [
+        8,
+        7,
+        5,
+        0
+    ],
+    "bxxoxobbb": [
+        8,
+        6,
+        7,
+        0
+    ],
+    "bxxxbbboo": [
+        4,
+        6,
+        5,
+        0
+    ],
+    "bxxxbbobo": [
+        4,
+        7,
+        5,
+        0
+    ],
+    "bxxxbboob": [
+        4,
+        8,
+        5,
+        0
+    ],
+    "bxxxbobbo": [
+        4,
+        6,
+        7,
+        0
+    ],
+    "bxxxbobob": [
+        8,
+        4,
+        6,
+        0
+    ],
+    "bxxxboobb": [
+        4,
+        8,
+        7,
+        0
+    ],
+    "bxxxobbbo": [
+        6,
+        7,
+        5,
+        0
+    ],
+    "bxxxobbob": [
+        8,
+        6,
+        5,
+        0
+    ],
+    "bxxxobobb": [
+        8,
+        7,
+        5,
+        0
+    ],
+    "bxxxoobbb": [
+        8,
+        6,
+        7,
+        0
+    ],
+    "obbbbxoxx": [
+        2,
+        3,
+        4,
+        1
+    ],
+    "obbbbxxox": [
+        2,
+        3,
+        4,
+        1
+    ],
+    "obbbbxxxo": [
+        2,
+        3,
+        4,
+        1
+    ],
+    "obbboxbxx": [
+        2,
+        6,
+        3,
+        1
+    ],
+    "obbboxxbx": [
+        2,
+        3,
+        7,
+        1
+    ],
+    "obbboxxxb": [
+        2,
+        8,
+        3,
+        1
+    ],
+    "obbbxboxx": [
+        2,
+        3,
+        5,
+        1
+    ],
+    "obbbxbxox": [
+        2,
+        3,
+        5,
+        1
+    ],
+    "obbbxbxxo": [
+        2,
+        3,
+        5,
+        1
+    ],
+    "obbbxobxx": [
+        2,
+        6,
+        3,
+        1
+    ],
+    "obbbxoxbx": [
+        2,
+        3,
+        7,
+        1
+    ],
+    "obbbxoxxb": [
+        2,
+        8,
+        3,
+        1
+    ],
+    "obbbxxbox": [
+        2,
+        6,
+        3,
+        1
+    ],
+    "obbbxxbxo": [
+        2,
+        6,
+        3,
+        1
+    ],
+    "obbbxxobx": [
+        2,
+        3,
+        7,
+        1
+    ],
+    "obbbxxoxb": [
+        2,
+        8,
+        3,
+        1
+    ],
+    "obbbxxxbo": [
+        2,
+        3,
+        7,
+        1
+    ],
+    "obbbxxxob": [
+        2,
+        8,
+        3,
+        1
+    ],
+    "obbobxbxx": [
+        2,
+        6,
+        4,
+        1
+    ],
+    "obbobxxbx": [
+        2,
+        7,
+        4,
+        1
+    ],
+    "obbobxxxb": [
+        2,
+        8,
+        4,
+        1
+    ],
+    "obboxbbxx": [
+        2,
+        6,
+        5,
+        1
+    ],
+    "obboxbxbx": [
+        2,
+        7,
+        5,
+        1
+    ],
+    "obboxbxxb": [
+        2,
+        8,
+        5,
+        1
+    ],
+    "obboxxbbx": [
+        2,
+        6,
+        7,
+        1
+    ],
+    "obboxxbxb": [
+        8,
+        2,
+        6,
+        1
+    ],
+    "obboxxxbb": [
+        2,
+        8,
+        7,
+        1
+    ],
+    "obbxbboxx": [
+        2,
+        5,
+        4,
+        1
+    ],
+    "obbxbbxox": [
+        2,
+        5,
+        4,
+        1
+    ],
+    "obbxbbxxo": [
+        2,
+        5,
+        4,
+        1
+    ],
+    "obbxbobxx": [
+        2,
+        6,
+        4,
+        1
+    ],
+    "obbxboxbx": [
+        2,
+        7,
+        4,
+        1
+    ],
+    "obbxboxxb": [
+        2,
+        8,
+        4,
+        1
+    ],
+    "obbxbxbox": [
+        2,
+        6,
+        4,
+        1
+    ],
+    "obbxbxbxo": [
+        2,
+        6,
+        4,
+        1
+    ],
+    "obbxbxobx": [
+        2,
+        7,
+        4,
+        1
+    ],
+    "obbxbxoxb": [
+        2,
+        8,
+        4,
+        1
+    ],
+    "obbxbxxbo": [
+        2,
+        7,
+        4,
+        1
+    ],
+    "obbxbxxob": [
+        2,
+        8,
+        4,
+        1
+    ],
+    "obbxobbxx": [
+        2,
+        6,
+        5,
+        1
+    ],
+    "obbxobxbx": [
+        2,
+        7,
+        5,
+        1
+    ],
+    "obbxobxxb": [
+        2,
+        8,
+        5,
+        1
+    ],
+    "obbxoxbbx": [
+        2,
+        6,
+        7,
+        1
+    ],
+    "obbxoxbxb": [
+        8,
+        2,
+        6,
+        1
+    ],
+    "obbxoxxbb": [
+        2,
+        8,
+        7,
+        1
+    ],
+    "obbxxbbox": [
+        2,
+        6,
+        5,
+        1
+    ],
+    "obbxxbbxo": [
+        2,
+        6,
+        5,
+        1
+    ],
+    "obbxxbobx": [
+        2,
+        7,
+        5,
+        1
+    ],
+    "obbxxboxb": [
+        2,
+        8,
+        5,
+        1
+    ],
+    "obbxxbxbo": [
+        2,
+        7,
+        5,
+        1
+    ],
+    "obbxxbxob": [
+        2,
+        8,
+        5,
+        1
+    ],
+    "obbxxobbx": [
+        2,
+        6,
+        7,
+        1
+    ],
+    "obbxxobxb": [
+        8,
+        2,
+        6,
+        1
+    ],
+    "obbxxoxbb": [
+        2,
+        8,
+        7,
+        1
+    ],
+    "obobbxbxx": [
+        4,
+        6,
+        3,
+        1
+    ],
+    "obobbxxbx": [
+        4,
+        3,
+        7,
+        1
+    ],
+    "obobbxxxb": [
+        4,
+        8,
+        3,
+        1
+    ],
+    "obobxbbxx": [
+        6,
+        3,
+        5,
+        1
+    ],
+    "obobxbxbx": [
+        7,
+        3,
+        5,
+        1
+    ],
+    "obobxbxxb": [
+        8,
+        3,
+        5,
+        1
+    ],
+    "obobxxbbx": [
+        6,
+        3,
+        7,
+        1
+    ],
+    "obobxxbxb": [
+        8,
+        6,
+        3,
+        1
+    ],
+    "obobxxxbb": [
+        8,
+        3,
+        7,
+        1
+    ],
+    "oboxbbbxx": [
+        4,
+        6,
+        5,
+        1
+    ],
+    "oboxbbxbx": [
+        4,
+        7,
+        5,
+        1
+    ],
+    "oboxbbxxb": [
+        4,
+        8,
+        5,
+        1
+    ],
+    "oboxbxbbx": [
+        4,
+        6,
+        7,
+        1
+    ],
+    "oboxbxbxb": [
+        8,
+        4,
+        6,
+        1
+    ],
+    "oboxbxxbb": [
+        4,
+        8,
+        7,
+        1
+    ],
+    "oboxxbbbx": [
+        6,
+        7,
+        5,
+        1
+    ],
+    "oboxxbbxb": [
+        8,
+        6,
+        5,
+        1
+    ],
+    "oboxxbxbb": [
+        8,
+        7,
+        5,
+        1
+    ],
+    "obxbbboxx": [
+        4,
+        3,
+        5,
+        1
+    ],
+    "obxbbbxox": [
+        4,
+        3,
+        5,
+        1
+    ],
+    "obxbbbxxo": [
+        4,
+        3,
+        5,
+        1
+    ],
+    "obxbbobxx": [
+        4,
+        6,
+        3,
+        1
+    ],
+    "obxbboxbx": [
+        4,
+        3,
+        7,
+        1
+    ],
+    "obxbboxxb": [
+        4,
+        8,
+        3,
+        1
+    ],
+    "obxbbxbxo": [
+        4,
+        6,
+        3,
+        1
+    ],
+    "obxbbxoxb": [
+        4,
+        8,
+        3,
+        1
+    ],
+    "obxbbxxbo": [
+        4,
+        3,
+        7,
+        1
+    ],
+    "obxbbxxob": [
+        4,
+        8,
+        3,
+        1
+    ],
+    "obxbobbxx": [
+        6,
+        3,
+        5,
+        1
+    ],
+    "obxbobxbx": [
+        7,
+        3,
+        5,
+        1
+    ],
+    "obxbobxxb": [
+        8,
+        3,
+        5,
+        1
+    ],
+    "obxboxbxb": [
+        8,
+        6,
+        3,
+        1
+    ],
+    "obxboxxbb": [
+        8,
+        3,
+        7,
+        1
+    ],
+    "obxbxbbox": [
+        6,
+        3,
+        5,
+        1
+    ],
+    "obxbxbbxo": [
+        6,
+        3,
+        5,
+        1
+    ],
+    "obxbxbobx": [
+        7,
+        3,
+        5,
+        1
+    ],
+    "obxbxboxb": [
+        8,
+        3,
+        5,
+        1
+    ],
+    "obxbxobbx": [
+        6,
+        3,
+        7,
+        1
+    ],
+    "obxbxobxb": [
+        8,
+        6,
+        3,
+        1
+    ],
+    "obxbxxbbo": [
+        6,
+        3,
+        7,
+        1
+    ],
+    "obxbxxbob": [
+        8,
+        6,
+        3,
+        1
+    ],
+    "obxbxxobb": [
+        8,
+        3,
+        7,
+        1
+    ],
+    "obxobbbxx": [
+        4,
+        6,
+        5,
+        1
+    ],
+    "obxobbxbx": [
+        4,
+        7,
+        5,
+        1
+    ],
+    "obxobbxxb": [
+        4,
+        8,
+        5,
+        1
+    ],
+    "obxobxbxb": [
+        8,
+        4,
+        6,
+        1
+    ],
+    "obxobxxbb": [
+        4,
+        8,
+        7,
+        1
+    ],
+    "obxoxbbbx": [
+        6,
+        7,
+        5,
+        1
+    ],
+    "obxoxbbxb": [
+        8,
+        6,
+        5,
+        1
+    ],
+    "obxoxxbbb": [
+        8,
+        6,
+        7,
+        1
+    ],
+    "obxxbbbox": [
+        4,
+        6,
+        5,
+        1
+    ],
+    "obxxbbbxo": [
+        4,
+        6,
+        5,
+        1
+    ],
+    "obxxbbobx": [
+        4,
+        7,
+        5,
+        1
+    ],
+    "obxxbboxb": [
+        4,
+        8,
+        5,
+        1
+    ],
+    "obxxbbxbo": [
+        4,
+        7,
+        5,
+        1
+    ],
+    "obxxbbxob": [
+        4,
+        8,
+        5,
+        1
+    ],
+    "obxxbobbx": [
+        4,
+        6,
+        7,
+        1
+    ],
+    "obxxbobxb": [
+        8,
+        4,
+        6,
+        1
+    ],
+    "obxxboxbb": [
+        4,
+        8,
+        7,
+        1
+    ],
+    "obxxbxbbo": [
+        4,
+        6,
+        7,
+        1
+    ],
+    "obxxbxbob": [
+        8,
+        4,
+        6,
+        1
+    ],
+    "obxxbxobb": [
+        4,
+        8,
+        7,
+        1
+    ],
+    "obxxobbbx": [
+        6,
+        7,
+        5,
+        1
+    ],
+    "obxxobbxb": [
+        8,
+        6,
+        5,
+        1
+    ],
+    "obxxobxbb": [
+        8,
+        7,
+        5,
+        1
+    ],
+    "obxxoxbbb": [
+        8,
+        6,
+        7,
+        1
+    ],
+    "obxxxbbbo": [
+        6,
+        7,
+        5,
+        1
+    ],
+    "obxxxbbob": [
+        8,
+        6,
+        5,
+        1
+    ],
+    "obxxxbobb": [
+        8,
+        7,
+        5,
+        1
+    ],
+    "obxxxobbb": [
+        8,
+        6,
+        7,
+        1
+    ],
+    "oobbbxbxx": [
+        2,
+        6,
+        4,
+        3
+    ],
+    "oobbbxxbx": [
+        2,
+        7,
+        4,
+        3
+    ],
+    "oobbbxxxb": [
+        2,
+        8,
+        4,
+        3
+    ],
+    "oobbxbbxx": [
+        2,
+        6,
+        5,
+        3
+    ],
+    "oobbxbxbx": [
+        2,
+        7,
+        5,
+        3
+    ],
+    "oobbxbxxb": [
+        2,
+        8,
+        5,
+        3
+    ],
+    "oobbxxbbx": [
+        2,
+        6,
+        7,
+        3
+    ],
+    "oobbxxbxb": [
+        8,
+        2,
+        6,
+        3
+    ],
+    "oobbxxxbb": [
+        2,
+        8,
+        7,
+        3
+    ],
+    "oobxbbbxx": [
+        2,
+        6,
+        5,
+        4
+    ],
+    "oobxbbxbx": [
+        2,
+        7,
+        5,
+        4
+    ],
+    "oobxbbxxb": [
+        2,
+        8,
+        5,
+        4
+    ],
+    "oobxbxbbx": [
+        2,
+        6,
+        7,
+        4
+    ],
+    "oobxbxbxb": [
+        8,
+        2,
+        6,
+        4
+    ],
+    "oobxbxxbb": [
+        2,
+        8,
+        7,
+        4
+    ],
+    "oobxxbbbx": [
+        2,
+        6,
+        7,
+        5
+    ],
+    "oobxxbbxb": [
+        8,
+        2,
+        6,
+        5
+    ],
+    "oobxxbxbb": [
+        2,
+        8,
+        7,
+        5
+    ],
+    "ooxbbbbxx": [
+        4,
+        6,
+        5,
+        3
+    ],
+    "ooxbbbxbx": [
+        4,
+        7,
+        5,
+        3
+    ],
+    "ooxbbbxxb": [
+        4,
+        8,
+        5,
+        3
+    ],
+    "ooxbbxbxb": [
+        8,
+        4,
+        6,
+        3
+    ],
+    "ooxbbxxbb": [
+        4,
+        8,
+        7,
+        3
+    ],
+    "ooxbxbbbx": [
+        6,
+        7,
+        5,
+        3
+    ],
+    "ooxbxbbxb": [
+        8,
+        6,
+        5,
+        3
+    ],
+    "ooxbxxbbb": [
+        8,
+        6,
+        7,
+        3
+    ],
+    "ooxxbbbbx": [
+        4,
+        6,
+        7,
+        5
+    ],
+    "ooxxbbbxb": [
+        8,
+        4,
+        6,
+        5
+    ],
+    "ooxxbbxbb": [
+        4,
+        8,
+        7,
+        5
+    ],
+    "ooxxbxbbb": [
+        8,
+        4,
+        6,
+        7
+    ],
+    "ooxxxbbbb": [
+        8,
+        6,
+        7,
+        5
+    ],
+    "oxbbbboxx": [
+        2,
+        5,
+        4,
+        3
+    ],
+    "oxbbbbxox": [
+        2,
+        5,
+        4,
+        3
+    ],
+    "oxbbbbxxo": [
+        2,
+        5,
+        4,
+        3
+    ],
+    "oxbbbobxx": [
+        2,
+        6,
+        4,
+        3
+    ],
+    "oxbbboxbx": [
+        2,
+        7,
+        4,
+        3
+    ],
+    "oxbbboxxb": [
+        2,
+        8,
+        4,
+        3
+    ],
+    "oxbbbxbox": [
+        2,
+        6,
+        4,
+        3
+    ],
+    "oxbbbxbxo": [
+        2,
+        6,
+        4,
+        3
+    ],
+    "oxbbbxobx": [
+        2,
+        7,
+        4,
+        3
+    ],
+    "oxbbbxoxb": [
+        2,
+        8,
+        4,
+        3
+    ],
+    "oxbbbxxbo": [
+        2,
+        7,
+        4,
+        3
+    ],
+    "oxbbbxxob": [
+        2,
+        8,
+        4,
+        3
+    ],
+    "oxbbobbxx": [
+        2,
+        6,
+        5,
+        3
+    ],
+    "oxbbobxbx": [
+        2,
+        7,
+        5,
+        3
+    ],
+    "oxbbobxxb": [
+        2,
+        8,
+        5,
+        3
+    ],
+    "oxbboxbbx": [
+        2,
+        6,
+        7,
+        3
+    ],
+    "oxbboxbxb": [
+        8,
+        2,
+        6,
+        3
+    ],
+    "oxbboxxbb": [
+        2,
+        8,
+        7,
+        3
+    ],
+    "oxbbxbbox": [
+        2,
+        6,
+        5,
+        3
+    ],
+    "oxbbxbobx": [
+        2,
+        7,
+        5,
+        3
+    ],
+    "oxbbxbxbo": [
+        2,
+        7,
+        5,
+        3
+    ],
+    "oxbbxbxob": [
+        2,
+        8,
+        5,
+        3
+    ],
+    "oxbbxobbx": [
+        2,
+        6,
+        7,
+        3
+    ],
+    "oxbbxoxbb": [
+        2,
+        8,
+        7,
+        3
+    ],
+    "oxbbxxbbo": [
+        2,
+        6,
+        7,
+        3
+    ],
+    "oxbbxxbob": [
+        8,
+        2,
+        6,
+        3
+    ],
+    "oxbbxxobb": [
+        2,
+        8,
+        7,
+        3
+    ],
+    "oxbobbbxx": [
+        2,
+        6,
+        5,
+        4
+    ],
+    "oxbobbxbx": [
+        2,
+        7,
+        5,
+        4
+    ],
+    "oxbobbxxb": [
+        2,
+        8,
+        5,
+        4
+    ],
+    "oxbobxbbx": [
+        2,
+        6,
+        7,
+        4
+    ],
+    "oxbobxbxb": [
+        8,
+        2,
+        6,
+        4
+    ],
+    "oxbobxxbb": [
+        2,
+        8,
+        7,
+        4
+    ],
+    "oxboxbbbx": [
+        2,
+        6,
+        7,
+        5
+    ],
+    "oxboxbxbb": [
+        2,
+        8,
+        7,
+        5
+    ],
+    "oxboxxbbb": [
+        8,
+        2,
+        6,
+        7
+    ],
+    "oxbxbbbox": [
+        2,
+        6,
+        5,
+        4
+    ],
+    "oxbxbbbxo": [
+        2,
+        6,
+        5,
+        4
+    ],
+    "oxbxbbobx": [
+        2,
+        7,
+        5,
+        4
+    ],
+    "oxbxbboxb": [
+        2,
+        8,
+        5,
+        4
+    ],
+    "oxbxbbxbo": [
+        2,
+        7,
+        5,
+        4
+    ],
+    "oxbxbbxob": [
+        2,
+        8,
+        5,
+        4
+    ],
+    "oxbxbobbx": [
+        2,
+        6,
+        7,
+        4
+    ],
+    "oxbxbobxb": [
+        8,
+        2,
+        6,
+        4
+    ],
+    "oxbxboxbb": [
+        2,
+        8,
+        7,
+        4
+    ],
+    "oxbxbxbbo": [
+        2,
+        6,
+        7,
+        4
+    ],
+    "oxbxbxbob": [
+        8,
+        2,
+        6,
+        4
+    ],
+    "oxbxbxobb": [
+        2,
+        8,
+        7,
+        4
+    ],
+    "oxbxobbbx": [
+        2,
+        6,
+        7,
+        5
+    ],
+    "oxbxobbxb": [
+        8,
+        2,
+        6,
+        5
+    ],
+    "oxbxobxbb": [
+        2,
+        8,
+        7,
+        5
+    ],
+    "oxbxoxbbb": [
+        8,
+        2,
+        6,
+        7
+    ],
+    "oxbxxbbbo": [
+        2,
+        6,
+        7,
+        5
+    ],
+    "oxbxxbbob": [
+        8,
+        2,
+        6,
+        5
+    ],
+    "oxbxxbobb": [
+        2,
+        8,
+        7,
+        5
+    ],
+    "oxbxxobbb": [
+        8,
+        2,
+        6,
+        7
+    ],
+    "oxobbbbxx": [
+        4,
+        6,
+        5,
+        3
+    ],
+    "oxobbbxbx": [
+        4,
+        7,
+        5,
+        3
+    ],
+    "oxobbbxxb": [
+        4,
+        8,
+        5,
+        3
+    ],
+    "oxobbxbbx": [
+        4,
+        6,
+        7,
+        3
+    ],
+    "oxobbxbxb": [
+        8,
+        4,
+        6,
+        3
+    ],
+    "oxobbxxbb": [
+        4,
+        8,
+        7,
+        3
+    ],
+    "oxobxbbbx": [
+        6,
+        7,
+        5,
+        3
+    ],
+    "oxobxbxbb": [
+        8,
+        7,
+        5,
+        3
+    ],
+    "oxobxxbbb": [
+        8,
+        6,
+        7,
+        3
+    ],
+    "oxoxbbbbx": [
+        4,
+        6,
+        7,
+        5
+    ],
+    "oxoxbbbxb": [
+        8,
+        4,
+        6,
+        5
+    ],
+    "oxoxbbxbb": [
+        4,
+        8,
+        7,
+        5
+    ],
+    "oxoxbxbbb": [
+        8,
+        4,
+        6,
+        7
+    ],
+    "oxoxxbbbb": [
+        8,
+        6,
+        7,
+        5
+    ],
+    "oxxbbbbox": [
+        4,
+        6,
+        5,
+        3
+    ],
+    "oxxbbbbxo": [
+        4,
+        6,
+        5,
+        3
+    ],
+    "oxxbbbobx": [
+        4,
+        7,
+        5,
+        3
+    ],
+    "oxxbbboxb": [
+        4,
+        8,
+        5,
+        3
+    ],
+    "oxxbbbxbo": [
+        4,
+        7,
+        5,
+        3
+    ],
+    "oxxbbbxob": [
+        4,
+        8,
+        5,
+        3
+    ],
+    "oxxbbobbx": [
+        4,
+        6,
+        7,
+        3
+    ],
+    "oxxbbobxb": [
+        8,
+        4,
+        6,
+        3
+    ],
+    "oxxbboxbb": [
+        4,
+        8,
+        7,
+        3
+    ],
+    "oxxbbxbbo": [
+        4,
+        6,
+        7,
+        3
+    ],
+    "oxxbbxbob": [
+        8,
+        4,
+        6,
+        3
+    ],
+    "oxxbbxobb": [
+        4,
+        8,
+        7,
+        3
+    ],
+    "oxxbobbbx": [
+        6,
+        7,
+        5,
+        3
+    ],
+    "oxxbobbxb": [
+        8,
+        6,
+        5,
+        3
+    ],
+    "oxxbobxbb": [
+        8,
+        7,
+        5,
+        3
+    ],
+    "oxxboxbbb": [
+        8,
+        6,
+        7,
+        3
+    ],
+    "oxxbxbbbo": [
+        6,
+        7,
+        5,
+        3
+    ],
+    "oxxbxbbob": [
+        8,
+        6,
+        5,
+        3
+    ],
+    "oxxbxbobb": [
+        8,
+        7,
+        5,
+        3
+    ],
+    "oxxbxobbb": [
+        8,
+        6,
+        7,
+        3
+    ],
+    "oxxobbbbx": [
+        4,
+        6,
+        7,
+        5
+    ],
+    "oxxobbbxb": [
+        8,
+        4,
+        6,
+        5
+    ],
+    "oxxobbxbb": [
+        4,
+        8,
+        7,
+        5
+    ],
+    "oxxobxbbb": [
+        8,
+        4,
+        6,
+        7
+    ],
+    "oxxoxbbbb": [
+        8,
+        6,
+        7,
+        5
+    ],
+    "oxxxbbbbo": [
+        4,
+        6,
+        7,
+        5
+    ],
+    "oxxxbbbob": [
+        8,
+        4,
+        6,
+        5
+    ],
+    "oxxxbbobb": [
+        4,
+        8,
+        7,
+        5
+    ],
+    "oxxxbobbb": [
+        8,
+        4,
+        6,
+        7
+    ],
+    "oxxxobbbb": [
+        8,
+        6,
+        7,
+        5
+    ],
+    "xbbbbooxx": [
+        2,
+        3,
+        4,
+        1
+    ],
+    "xbbbboxox": [
+        2,
+        3,
+        4,
+        1
+    ],
+    "xbbbboxxo": [
+        2,
+        3,
+        4,
+        1
+    ],
+    "xbbbbxoox": [
+        2,
+        3,
+        4,
+        1
+    ],
+    "xbbbbxoxo": [
+        2,
+        3,
+        4,
+        1
+    ],
+    "xbbbbxxoo": [
+        2,
+        3,
+        4,
+        1
+    ],
+    "xbbboboxx": [
+        2,
+        3,
+        5,
+        1
+    ],
+    "xbbbobxox": [
+        2,
+        3,
+        5,
+        1
+    ],
+    "xbbbobxxo": [
+        2,
+        3,
+        5,
+        1
+    ],
+    "xbbboobxx": [
+        2,
+        6,
+        3,
+        1
+    ],
+    "xbbbooxbx": [
+        2,
+        3,
+        7,
+        1
+    ],
+    "xbbbooxxb": [
+        2,
+        8,
+        3,
+        1
+    ],
+    "xbbboxbox": [
+        2,
+        6,
+        3,
+        1
+    ],
+    "xbbboxbxo": [
+        2,
+        6,
+        3,
+        1
+    ],
+    "xbbboxobx": [
+        2,
+        3,
+        7,
+        1
+    ],
+    "xbbboxoxb": [
+        2,
+        8,
+        3,
+        1
+    ],
+    "xbbboxxbo": [
+        2,
+        3,
+        7,
+        1
+    ],
+    "xbbboxxob": [
+        2,
+        8,
+        3,
+        1
+    ],
+    "xbbbxboxo": [
+        2,
+        3,
+        5,
+        1
+    ],
+    "xbbbxbxoo": [
+        2,
+        3,
+        5,
+        1
+    ],
+    "xbbbxobxo": [
+        2,
+        6,
+        3,
+        1
+    ],
+    "xbbbxooxb": [
+        2,
+        8,
+        3,
+        1
+    ],
+    "xbbbxoxbo": [
+        2,
+        3,
+        7,
+        1
+    ],
+    "xbbbxoxob": [
+        2,
+        8,
+        3,
+        1
+    ],
+    "xbbbxxboo": [
+        2,
+        6,
+        3,
+        1
+    ],
+    "xbbbxxobo": [
+        2,
+        3,
+        7,
+        1
+    ],
+    "xbbbxxoob": [
+        2,
+        8,
+        3,
+        1
+    ],
+    "xbbobboxx": [
+        2,
+        5,
+        4,
+        1
+    ],
+    "xbbobbxox": [
+        2,
+        5,
+        4,
+        1
+    ],
+    "xbbobbxxo": [
+        2,
+        5,
+        4,
+        1
+    ],
+    "xbbobobxx": [
+        2,
+        6,
+        4,
+        1
+    ],
+    "xbboboxbx": [
+        2,
+        7,
+        4,
+        1
+    ],
+    "xbboboxxb": [
+        2,
+        8,
+        4,
+        1
+    ],
+    "xbbobxbox": [
+        2,
+        6,
+        4,
+        1
+    ],
+    "xbbobxbxo": [
+        2,
+        6,
+        4,
+        1
+    ],
+    "xbbobxobx": [
+        2,
+        7,
+        4,
+        1
+    ],
+    "xbbobxoxb": [
+        2,
+        8,
+        4,
+        1
+    ],
+    "xbbobxxbo": [
+        2,
+        7,
+        4,
+        1
+    ],
+    "xbbobxxob": [
+        2,
+        8,
+        4,
+        1
+    ],
+    "xbboobbxx": [
+        2,
+        6,
+        5,
+        1
+    ],
+    "xbboobxbx": [
+        2,
+        7,
+        5,
+        1
+    ],
+    "xbboobxxb": [
+        2,
+        8,
+        5,
+        1
+    ],
+    "xbbooxbbx": [
+        2,
+        6,
+        7,
+        1
+    ],
+    "xbbooxbxb": [
+        8,
+        2,
+        6,
+        1
+    ],
+    "xbbooxxbb": [
+        2,
+        8,
+        7,
+        1
+    ],
+    "xbboxbbxo": [
+        2,
+        6,
+        5,
+        1
+    ],
+    "xbboxboxb": [
+        2,
+        8,
+        5,
+        1
+    ],
+    "xbboxbxbo": [
+        2,
+        7,
+        5,
+        1
+    ],
+    "xbboxbxob": [
+        2,
+        8,
+        5,
+        1
+    ],
+    "xbboxobxb": [
+        8,
+        2,
+        6,
+        1
+    ],
+    "xbboxoxbb": [
+        2,
+        8,
+        7,
+        1
+    ],
+    "xbboxxbbo": [
+        2,
+        6,
+        7,
+        1
+    ],
+    "xbboxxbob": [
+        8,
+        2,
+        6,
+        1
+    ],
+    "xbboxxobb": [
+        2,
+        8,
+        7,
+        1
+    ],
+    "xbbxbboox": [
+        2,
+        5,
+        4,
+        1
+    ],
+    "xbbxbboxo": [
+        2,
+        5,
+        4,
+        1
+    ],
+    "xbbxbobox": [
+        2,
+        6,
+        4,
+        1
+    ],
+    "xbbxbobxo": [
+        2,
+        6,
+        4,
+        1
+    ],
+    "xbbxboobx": [
+        2,
+        7,
+        4,
+        1
+    ],
+    "xbbxbooxb": [
+        2,
+        8,
+        4,
+        1
+    ],
+    "xbbxbxboo": [
+        2,
+        6,
+        4,
+        1
+    ],
+    "xbbxbxobo": [
+        2,
+        7,
+        4,
+        1
+    ],
+    "xbbxbxoob": [
+        2,
+        8,
+        4,
+        1
+    ],
+    "xbbxobbox": [
+        2,
+        6,
+        5,
+        1
+    ],
+    "xbbxobbxo": [
+        2,
+        6,
+        5,
+        1
+    ],
+    "xbbxobobx": [
+        2,
+        7,
+        5,
+        1
+    ],
+    "xbbxoboxb": [
+        2,
+        8,
+        5,
+        1
+    ],
+    "xbbxoobbx": [
+        2,
+        6,
+        7,
+        1
+    ],
+    "xbbxoobxb": [
+        8,
+        2,
+        6,
+        1
+    ],
+    "xbbxoxbbo": [
+        2,
+        6,
+        7,
+        1
+    ],
+    "xbbxoxbob": [
+        8,
+        2,
+        6,
+        1
+    ],
+    "xbbxoxobb": [
+        2,
+        8,
+        7,
+        1
+    ],
+    "xbbxxbboo": [
+        2,
+        6,
+        5,
+        1
+    ],
+    "xbbxxbobo": [
+        2,
+        7,
+        5,
+        1
+    ],
+    "xbbxxboob": [
+        2,
+        8,
+        5,
+        1
+    ],
+    "xbbxxobbo": [
+        2,
+        6,
+        7,
+        1
+    ],
+    "xbbxxobob": [
+        8,
+        2,
+        6,
+        1
+    ],
+    "xbbxxoobb": [
+        2,
+        8,
+        7,
+        1
+    ],
+    "xbobbboxx": [
+        4,
+        3,
+        5,
+        1
+    ],
+    "xbobbbxox": [
+        4,
+        3,
+        5,
+        1
+    ],
+    "xbobbbxxo": [
+        4,
+        3,
+        5,
+        1
+    ],
+    "xbobbobxx": [
+        4,
+        6,
+        3,
+        1
+    ],
+    "xbobboxbx": [
+        4,
+        3,
+        7,
+        1
+    ],
+    "xbobboxxb": [
+        4,
+        8,
+        3,
+        1
+    ],
+    "xbobbxbox": [
+        4,
+        6,
+        3,
+        1
+    ],
+    "xbobbxbxo": [
+        4,
+        6,
+        3,
+        1
+    ],
+    "xbobbxobx": [
+        4,
+        3,
+        7,
+        1
+    ],
+    "xbobbxoxb": [
+        4,
+        8,
+        3,
+        1
+    ],
+    "xbobbxxbo": [
+        4,
+        3,
+        7,
+        1
+    ],
+    "xbobbxxob": [
+        4,
+        8,
+        3,
+        1
+    ],
+    "xbobobbxx": [
+        6,
+        3,
+        5,
+        1
+    ],
+    "xbobobxbx": [
+        7,
+        3,
+        5,
+        1
+    ],
+    "xbobobxxb": [
+        8,
+        3,
+        5,
+        1
+    ],
+    "xboboxbbx": [
+        6,
+        3,
+        7,
+        1
+    ],
+    "xboboxbxb": [
+        8,
+        6,
+        3,
+        1
+    ],
+    "xboboxxbb": [
+        8,
+        3,
+        7,
+        1
+    ],
+    "xbobxbbxo": [
+        6,
+        3,
+        5,
+        1
+    ],
+    "xbobxboxb": [
+        8,
+        3,
+        5,
+        1
+    ],
+    "xbobxbxbo": [
+        7,
+        3,
+        5,
+        1
+    ],
+    "xbobxbxob": [
+        8,
+        3,
+        5,
+        1
+    ],
+    "xbobxobxb": [
+        8,
+        6,
+        3,
+        1
+    ],
+    "xbobxoxbb": [
+        8,
+        3,
+        7,
+        1
+    ],
+    "xbobxxbbo": [
+        6,
+        3,
+        7,
+        1
+    ],
+    "xbobxxbob": [
+        8,
+        6,
+        3,
+        1
+    ],
+    "xbobxxobb": [
+        8,
+        3,
+        7,
+        1
+    ],
+    "xboobbbxx": [
+        4,
+        6,
+        5,
+        1
+    ],
+    "xboobbxbx": [
+        4,
+        7,
+        5,
+        1
+    ],
+    "xboobbxxb": [
+        4,
+        8,
+        5,
+        1
+    ],
+    "xboobxbbx": [
+        4,
+        6,
+        7,
+        1
+    ],
+    "xboobxbxb": [
+        8,
+        4,
+        6,
+        1
+    ],
+    "xboobxxbb": [
+        4,
+        8,
+        7,
+        1
+    ],
+    "xbooxbbxb": [
+        8,
+        6,
+        5,
+        1
+    ],
+    "xbooxbxbb": [
+        8,
+        7,
+        5,
+        1
+    ],
+    "xbooxxbbb": [
+        8,
+        6,
+        7,
+        1
+    ],
+    "xboxbbbox": [
+        4,
+        6,
+        5,
+        1
+    ],
+    "xboxbbbxo": [
+        4,
+        6,
+        5,
+        1
+    ],
+    "xboxbbobx": [
+        4,
+        7,
+        5,
+        1
+    ],
+    "xboxbboxb": [
+        4,
+        8,
+        5,
+        1
+    ],
+    "xboxbobbx": [
+        4,
+        6,
+        7,
+        1
+    ],
+    "xboxbobxb": [
+        8,
+        4,
+        6,
+        1
+    ],
+    "xboxbxbbo": [
+        4,
+        6,
+        7,
+        1
+    ],
+    "xboxbxbob": [
+        8,
+        4,
+        6,
+        1
+    ],
+    "xboxbxobb": [
+        4,
+        8,
+        7,
+        1
+    ],
+    "xboxobbbx": [
+        6,
+        7,
+        5,
+        1
+    ],
+    "xboxobbxb": [
+        8,
+        6,
+        5,
+        1
+    ],
+    "xboxoxbbb": [
+        8,
+        6,
+        7,
+        1
+    ],
+    "xboxxbbbo": [
+        6,
+        7,
+        5,
+        1
+    ],
+    "xboxxbbob": [
+        8,
+        6,
+        5,
+        1
+    ],
+    "xboxxbobb": [
+        8,
+        7,
+        5,
+        1
+    ],
+    "xboxxobbb": [
+        8,
+        6,
+        7,
+        1
+    ],
+    "xbxbbboox": [
+        4,
+        3,
+        5,
+        1
+    ],
+    "xbxbbboxo": [
+        4,
+        3,
+        5,
+        1
+    ],
+    "xbxbbbxoo": [
+        4,
+        3,
+        5,
+        1
+    ],
+    "xbxbbobox": [
+        4,
+        6,
+        3,
+        1
+    ],
+    "xbxbbobxo": [
+        4,
+        6,
+        3,
+        1
+    ],
+    "xbxbboobx": [
+        4,
+        3,
+        7,
+        1
+    ],
+    "xbxbbooxb": [
+        4,
+        8,
+        3,
+        1
+    ],
+    "xbxbboxbo": [
+        4,
+        3,
+        7,
+        1
+    ],
+    "xbxbboxob": [
+        4,
+        8,
+        3,
+        1
+    ],
+    "xbxbbxboo": [
+        4,
+        6,
+        3,
+        1
+    ],
+    "xbxbbxobo": [
+        4,
+        3,
+        7,
+        1
+    ],
+    "xbxbbxoob": [
+        4,
+        8,
+        3,
+        1
+    ],
+    "xbxbobbox": [
+        6,
+        3,
+        5,
+        1
+    ],
+    "xbxbobbxo": [
+        6,
+        3,
+        5,
+        1
+    ],
+    "xbxbobobx": [
+        7,
+        3,
+        5,
+        1
+    ],
+    "xbxboboxb": [
+        8,
+        3,
+        5,
+        1
+    ],
+    "xbxbobxbo": [
+        7,
+        3,
+        5,
+        1
+    ],
+    "xbxbobxob": [
+        8,
+        3,
+        5,
+        1
+    ],
+    "xbxboobbx": [
+        6,
+        3,
+        7,
+        1
+    ],
+    "xbxboobxb": [
+        8,
+        6,
+        3,
+        1
+    ],
+    "xbxbooxbb": [
+        8,
+        3,
+        7,
+        1
+    ],
+    "xbxboxbbo": [
+        6,
+        3,
+        7,
+        1
+    ],
+    "xbxboxbob": [
+        8,
+        6,
+        3,
+        1
+    ],
+    "xbxboxobb": [
+        8,
+        3,
+        7,
+        1
+    ],
+    "xbxbxbboo": [
+        6,
+        3,
+        5,
+        1
+    ],
+    "xbxbxbobo": [
+        7,
+        3,
+        5,
+        1
+    ],
+    "xbxbxboob": [
+        8,
+        3,
+        5,
+        1
+    ],
+    "xbxbxobbo": [
+        6,
+        3,
+        7,
+        1
+    ],
+    "xbxbxobob": [
+        8,
+        6,
+        3,
+        1
+    ],
+    "xbxbxoobb": [
+        8,
+        3,
+        7,
+        1
+    ],
+    "xbxobbbox": [
+        4,
+        6,
+        5,
+        1
+    ],
+    "xbxobbbxo": [
+        4,
+        6,
+        5,
+        1
+    ],
+    "xbxobbobx": [
+        4,
+        7,
+        5,
+        1
+    ],
+    "xbxobboxb": [
+        4,
+        8,
+        5,
+        1
+    ],
+    "xbxobbxbo": [
+        4,
+        7,
+        5,
+        1
+    ],
+    "xbxobbxob": [
+        4,
+        8,
+        5,
+        1
+    ],
+    "xbxobobbx": [
+        4,
+        6,
+        7,
+        1
+    ],
+    "xbxobobxb": [
+        8,
+        4,
+        6,
+        1
+    ],
+    "xbxoboxbb": [
+        4,
+        8,
+        7,
+        1
+    ],
+    "xbxobxbbo": [
+        4,
+        6,
+        7,
+        1
+    ],
+    "xbxobxbob": [
+        8,
+        4,
+        6,
+        1
+    ],
+    "xbxobxobb": [
+        4,
+        8,
+        7,
+        1
+    ],
+    "xbxoobbbx": [
+        6,
+        7,
+        5,
+        1
+    ],
+    "xbxoobbxb": [
+        8,
+        6,
+        5,
+        1
+    ],
+    "xbxoobxbb": [
+        8,
+        7,
+        5,
+        1
+    ],
+    "xbxooxbbb": [
+        8,
+        6,
+        7,
+        1
+    ],
+    "xbxoxbbbo": [
+        6,
+        7,
+        5,
+        1
+    ],
+    "xbxoxbbob": [
+        8,
+        6,
+        5,
+        1
+    ],
+    "xbxoxbobb": [
+        8,
+        7,
+        5,
+        1
+    ],
+    "xbxoxobbb": [
+        8,
+        6,
+        7,
+        1
+    ],
+    "xbxxbbboo": [
+        4,
+        6,
+        5,
+        1
+    ],
+    "xbxxbbobo": [
+        4,
+        7,
+        5,
+        1
+    ],
+    "xbxxbboob": [
+        4,
+        8,
+        5,
+        1
+    ],
+    "xbxxbobbo": [
+        4,
+        6,
+        7,
+        1
+    ],
+    "xbxxbobob": [
+        8,
+        4,
+        6,
+        1
+    ],
+    "xbxxboobb": [
+        4,
+        8,
+        7,
+        1
+    ],
+    "xbxxobbbo": [
+        6,
+        7,
+        5,
+        1
+    ],
+    "xbxxobbob": [
+        8,
+        6,
+        5,
+        1
+    ],
+    "xbxxobobb": [
+        8,
+        7,
+        5,
+        1
+    ],
+    "xbxxoobbb": [
+        8,
+        6,
+        7,
+        1
+    ],
+    "xobbbboxx": [
+        2,
+        5,
+        4,
+        3
+    ],
+    "xobbbbxox": [
+        2,
+        5,
+        4,
+        3
+    ],
+    "xobbbbxxo": [
+        2,
+        5,
+        4,
+        3
+    ],
+    "xobbbobxx": [
+        2,
+        6,
+        4,
+        3
+    ],
+    "xobbboxbx": [
+        2,
+        7,
+        4,
+        3
+    ],
+    "xobbboxxb": [
+        2,
+        8,
+        4,
+        3
+    ],
+    "xobbbxbox": [
+        2,
+        6,
+        4,
+        3
+    ],
+    "xobbbxbxo": [
+        2,
+        6,
+        4,
+        3
+    ],
+    "xobbbxobx": [
+        2,
+        7,
+        4,
+        3
+    ],
+    "xobbbxoxb": [
+        2,
+        8,
+        4,
+        3
+    ],
+    "xobbbxxbo": [
+        2,
+        7,
+        4,
+        3
+    ],
+    "xobbbxxob": [
+        2,
+        8,
+        4,
+        3
+    ],
+    "xobbobbxx": [
+        2,
+        6,
+        5,
+        3
+    ],
+    "xobbobxbx": [
+        2,
+        7,
+        5,
+        3
+    ],
+    "xobbobxxb": [
+        2,
+        8,
+        5,
+        3
+    ],
+    "xobboxbbx": [
+        2,
+        6,
+        7,
+        3
+    ],
+    "xobboxbxb": [
+        8,
+        2,
+        6,
+        3
+    ],
+    "xobboxxbb": [
+        2,
+        8,
+        7,
+        3
+    ],
+    "xobbxbbxo": [
+        2,
+        6,
+        5,
+        3
+    ],
+    "xobbxboxb": [
+        2,
+        8,
+        5,
+        3
+    ],
+    "xobbxbxbo": [
+        2,
+        7,
+        5,
+        3
+    ],
+    "xobbxbxob": [
+        2,
+        8,
+        5,
+        3
+    ],
+    "xobbxobxb": [
+        8,
+        2,
+        6,
+        3
+    ],
+    "xobbxoxbb": [
+        2,
+        8,
+        7,
+        3
+    ],
+    "xobbxxbbo": [
+        2,
+        6,
+        7,
+        3
+    ],
+    "xobbxxbob": [
+        8,
+        2,
+        6,
+        3
+    ],
+    "xobbxxobb": [
+        2,
+        8,
+        7,
+        3
+    ],
+    "xobobbbxx": [
+        2,
+        6,
+        5,
+        4
+    ],
+    "xobobbxbx": [
+        2,
+        7,
+        5,
+        4
+    ],
+    "xobobbxxb": [
+        2,
+        8,
+        5,
+        4
+    ],
+    "xobobxbbx": [
+        2,
+        6,
+        7,
+        4
+    ],
+    "xobobxbxb": [
+        8,
+        2,
+        6,
+        4
+    ],
+    "xobobxxbb": [
+        2,
+        8,
+        7,
+        4
+    ],
+    "xoboxbbxb": [
+        8,
+        2,
+        6,
+        5
+    ],
+    "xoboxbxbb": [
+        2,
+        8,
+        7,
+        5
+    ],
+    "xoboxxbbb": [
+        8,
+        2,
+        6,
+        7
+    ],
+    "xobxbbbox": [
+        2,
+        6,
+        5,
+        4
+    ],
+    "xobxbbbxo": [
+        2,
+        6,
+        5,
+        4
+    ],
+    "xobxbbobx": [
+        2,
+        7,
+        5,
+        4
+    ],
+    "xobxbboxb": [
+        2,
+        8,
+        5,
+        4
+    ],
+    "xobxbobbx": [
+        2,
+        6,
+        7,
+        4
+    ],
+    "xobxbobxb": [
+        8,
+        2,
+        6,
+        4
+    ],
+    "xobxbxbbo": [
+        2,
+        6,
+        7,
+        4
+    ],
+    "xobxbxbob": [
+        8,
+        2,
+        6,
+        4
+    ],
+    "xobxbxobb": [
+        2,
+        8,
+        7,
+        4
+    ],
+    "xobxobbbx": [
+        2,
+        6,
+        7,
+        5
+    ],
+    "xobxobbxb": [
+        8,
+        2,
+        6,
+        5
+    ],
+    "xobxoxbbb": [
+        8,
+        2,
+        6,
+        7
+    ],
+    "xobxxbbbo": [
+        2,
+        6,
+        7,
+        5
+    ],
+    "xobxxbbob": [
+        8,
+        2,
+        6,
+        5
+    ],
+    "xobxxbobb": [
+        2,
+        8,
+        7,
+        5
+    ],
+    "xobxxobbb": [
+        8,
+        2,
+        6,
+        7
+    ],
+    "xoobbbbxx": [
+        4,
+        6,
+        5,
+        3
+    ],
+    "xoobbbxbx": [
+        4,
+        7,
+        5,
+        3
+    ],
+    "xoobbbxxb": [
+        4,
+        8,
+        5,
+        3
+    ],
+    "xoobbxbbx": [
+        4,
+        6,
+        7,
+        3
+    ],
+    "xoobbxbxb": [
+        8,
+        4,
+        6,
+        3
+    ],
+    "xoobbxxbb": [
+        4,
+        8,
+        7,
+        3
+    ],
+    "xoobxbbxb": [
+        8,
+        6,
+        5,
+        3
+    ],
+    "xoobxbxbb": [
+        8,
+        7,
+        5,
+        3
+    ],
+    "xoobxxbbb": [
+        8,
+        6,
+        7,
+        3
+    ],
+    "xooxbbbbx": [
+        4,
+        6,
+        7,
+        5
+    ],
+    "xooxbbbxb": [
+        8,
+        4,
+        6,
+        5
+    ],
+    "xooxbxbbb": [
+        8,
+        4,
+        6,
+        7
+    ],
+    "xooxxbbbb": [
+        8,
+        6,
+        7,
+        5
+    ],
+    "xoxbbbbox": [
+        4,
+        6,
+        5,
+        3
+    ],
+    "xoxbbbbxo": [
+        4,
+        6,
+        5,
+        3
+    ],
+    "xoxbbbobx": [
+        4,
+        7,
+        5,
+        3
+    ],
+    "xoxbbboxb": [
+        4,
+        8,
+        5,
+        3
+    ],
+    "xoxbbbxbo": [
+        4,
+        7,
+        5,
+        3
+    ],
+    "xoxbbbxob": [
+        4,
+        8,
+        5,
+        3
+    ],
+    "xoxbbobbx": [
+        4,
+        6,
+        7,
+        3
+    ],
+    "xoxbbobxb": [
+        8,
+        4,
+        6,
+        3
+    ],
+    "xoxbboxbb": [
+        4,
+        8,
+        7,
+        3
+    ],
+    "xoxbbxbbo": [
+        4,
+        6,
+        7,
+        3
+    ],
+    "xoxbbxbob": [
+        8,
+        4,
+        6,
+        3
+    ],
+    "xoxbbxobb": [
+        4,
+        8,
+        7,
+        3
+    ],
+    "xoxbobbbx": [
+        6,
+        7,
+        5,
+        3
+    ],
+    "xoxbobbxb": [
+        8,
+        6,
+        5,
+        3
+    ],
+    "xoxbobxbb": [
+        8,
+        7,
+        5,
+        3
+    ],
+    "xoxboxbbb": [
+        8,
+        6,
+        7,
+        3
+    ],
+    "xoxbxbbbo": [
+        6,
+        7,
+        5,
+        3
+    ],
+    "xoxbxbbob": [
+        8,
+        6,
+        5,
+        3
+    ],
+    "xoxbxbobb": [
+        8,
+        7,
+        5,
+        3
+    ],
+    "xoxbxobbb": [
+        8,
+        6,
+        7,
+        3
+    ],
+    "xoxobbbbx": [
+        4,
+        6,
+        7,
+        5
+    ],
+    "xoxobbbxb": [
+        8,
+        4,
+        6,
+        5
+    ],
+    "xoxobbxbb": [
+        4,
+        8,
+        7,
+        5
+    ],
+    "xoxobxbbb": [
+        8,
+        4,
+        6,
+        7
+    ],
+    "xoxoxbbbb": [
+        8,
+        6,
+        7,
+        5
+    ],
+    "xoxxbbbbo": [
+        4,
+        6,
+        7,
+        5
+    ],
+    "xoxxbbbob": [
+        8,
+        4,
+        6,
+        5
+    ],
+    "xoxxbbobb": [
+        4,
+        8,
+        7,
+        5
+    ],
+    "xoxxbobbb": [
+        8,
+        4,
+        6,
+        7
+    ],
+    "xoxxobbbb": [
+        8,
+        6,
+        7,
+        5
+    ],
+    "xxbbbboox": [
+        2,
+        5,
+        4,
+        3
+    ],
+    "xxbbbboxo": [
+        2,
+        5,
+        4,
+        3
+    ],
+    "xxbbbbxoo": [
+        2,
+        5,
+        4,
+        3
+    ],
+    "xxbbbobox": [
+        2,
+        6,
+        4,
+        3
+    ],
+    "xxbbbobxo": [
+        2,
+        6,
+        4,
+        3
+    ],
+    "xxbbboobx": [
+        2,
+        7,
+        4,
+        3
+    ],
+    "xxbbbooxb": [
+        2,
+        8,
+        4,
+        3
+    ],
+    "xxbbboxbo": [
+        2,
+        7,
+        4,
+        3
+    ],
+    "xxbbboxob": [
+        2,
+        8,
+        4,
+        3
+    ],
+    "xxbbbxboo": [
+        2,
+        6,
+        4,
+        3
+    ],
+    "xxbbbxobo": [
+        2,
+        7,
+        4,
+        3
+    ],
+    "xxbbbxoob": [
+        2,
+        8,
+        4,
+        3
+    ],
+    "xxbbobbox": [
+        2,
+        6,
+        5,
+        3
+    ],
+    "xxbbobbxo": [
+        2,
+        6,
+        5,
+        3
+    ],
+    "xxbbobobx": [
+        2,
+        7,
+        5,
+        3
+    ],
+    "xxbboboxb": [
+        2,
+        8,
+        5,
+        3
+    ],
+    "xxbbobxbo": [
+        2,
+        7,
+        5,
+        3
+    ],
+    "xxbbobxob": [
+        2,
+        8,
+        5,
+        3
+    ],
+    "xxbboobbx": [
+        2,
+        6,
+        7,
+        3
+    ],
+    "xxbboobxb": [
+        8,
+        2,
+        6,
+        3
+    ],
+    "xxbbooxbb": [
+        2,
+        8,
+        7,
+        3
+    ],
+    "xxbboxbbo": [
+        2,
+        6,
+        7,
+        3
+    ],
+    "xxbboxbob": [
+        8,
+        2,
+        6,
+        3
+    ],
+    "xxbboxobb": [
+        2,
+        8,
+        7,
+        3
+    ],
+    "xxbbxbboo": [
+        2,
+        6,
+        5,
+        3
+    ],
+    "xxbbxbobo": [
+        2,
+        7,
+        5,
+        3
+    ],
+    "xxbbxboob": [
+        2,
+        8,
+        5,
+        3
+    ],
+    "xxbbxobbo": [
+        2,
+        6,
+        7,
+        3
+    ],
+    "xxbbxobob": [
+        8,
+        2,
+        6,
+        3
+    ],
+    "xxbbxoobb": [
+        2,
+        8,
+        7,
+        3
+    ],
+    "xxbobbbox": [
+        2,
+        6,
+        5,
+        4
+    ],
+    "xxbobbbxo": [
+        2,
+        6,
+        5,
+        4
+    ],
+    "xxbobbobx": [
+        2,
+        7,
+        5,
+        4
+    ],
+    "xxbobboxb": [
+        2,
+        8,
+        5,
+        4
+    ],
+    "xxbobbxbo": [
+        2,
+        7,
+        5,
+        4
+    ],
+    "xxbobbxob": [
+        2,
+        8,
+        5,
+        4
+    ],
+    "xxbobobbx": [
+        2,
+        6,
+        7,
+        4
+    ],
+    "xxbobobxb": [
+        8,
+        2,
+        6,
+        4
+    ],
+    "xxboboxbb": [
+        2,
+        8,
+        7,
+        4
+    ],
+    "xxbobxbbo": [
+        2,
+        6,
+        7,
+        4
+    ],
+    "xxbobxbob": [
+        8,
+        2,
+        6,
+        4
+    ],
+    "xxbobxobb": [
+        2,
+        8,
+        7,
+        4
+    ],
+    "xxboobbbx": [
+        2,
+        6,
+        7,
+        5
+    ],
+    "xxboobbxb": [
+        8,
+        2,
+        6,
+        5
+    ],
+    "xxboobxbb": [
+        2,
+        8,
+        7,
+        5
+    ],
+    "xxbooxbbb": [
+        8,
+        2,
+        6,
+        7
+    ],
+    "xxboxbbbo": [
+        2,
+        6,
+        7,
+        5
+    ],
+    "xxboxbbob": [
+        8,
+        2,
+        6,
+        5
+    ],
+    "xxboxbobb": [
+        2,
+        8,
+        7,
+        5
+    ],
+    "xxboxobbb": [
+        8,
+        2,
+        6,
+        7
+    ],
+    "xxbxbbboo": [
+        2,
+        6,
+        5,
+        4
+    ],
+    "xxbxbbobo": [
+        2,
+        7,
+        5,
+        4
+    ],
+    "xxbxbboob": [
+        2,
+        8,
+        5,
+        4
+    ],
+    "xxbxbobbo": [
+        2,
+        6,
+        7,
+        4
+    ],
+    "xxbxbobob": [
+        8,
+        2,
+        6,
+        4
+    ],
+    "xxbxboobb": [
+        2,
+        8,
+        7,
+        4
+    ],
+    "xxbxobbbo": [
+        2,
+        6,
+        7,
+        5
+    ],
+    "xxbxobbob": [
+        8,
+        2,
+        6,
+        5
+    ],
+    "xxbxobobb": [
+        2,
+        8,
+        7,
+        5
+    ],
+    "xxbxoobbb": [
+        8,
+        2,
+        6,
+        7
+    ],
+    "xxobbbbox": [
+        4,
+        6,
+        5,
+        3
+    ],
+    "xxobbbbxo": [
+        4,
+        6,
+        5,
+        3
+    ],
+    "xxobbbobx": [
+        4,
+        7,
+        5,
+        3
+    ],
+    "xxobbboxb": [
+        4,
+        8,
+        5,
+        3
+    ],
+    "xxobbbxbo": [
+        4,
+        7,
+        5,
+        3
+    ],
+    "xxobbbxob": [
+        4,
+        8,
+        5,
+        3
+    ],
+    "xxobbobbx": [
+        4,
+        6,
+        7,
+        3
+    ],
+    "xxobbobxb": [
+        8,
+        4,
+        6,
+        3
+    ],
+    "xxobboxbb": [
+        4,
+        8,
+        7,
+        3
+    ],
+    "xxobbxbbo": [
+        4,
+        6,
+        7,
+        3
+    ],
+    "xxobbxbob": [
+        8,
+        4,
+        6,
+        3
+    ],
+    "xxobbxobb": [
+        4,
+        8,
+        7,
+        3
+    ],
+    "xxobobbbx": [
+        6,
+        7,
+        5,
+        3
+    ],
+    "xxobobbxb": [
+        8,
+        6,
+        5,
+        3
+    ],
+    "xxobobxbb": [
+        8,
+        7,
+        5,
+        3
+    ],
+    "xxoboxbbb": [
+        8,
+        6,
+        7,
+        3
+    ],
+    "xxobxbbbo": [
+        6,
+        7,
+        5,
+        3
+    ],
+    "xxobxbbob": [
+        8,
+        6,
+        5,
+        3
+    ],
+    "xxobxbobb": [
+        8,
+        7,
+        5,
+        3
+    ],
+    "xxobxobbb": [
+        8,
+        6,
+        7,
+        3
+    ],
+    "xxoobbbbx": [
+        4,
+        6,
+        7,
+        5
+    ],
+    "xxoobbbxb": [
+        8,
+        4,
+        6,
+        5
+    ],
+    "xxoobbxbb": [
+        4,
+        8,
+        7,
+        5
+    ],
+    "xxoobxbbb": [
+        8,
+        4,
+        6,
+        7
+    ],
+    "xxooxbbbb": [
+        8,
+        6,
+        7,
+        5
+    ],
+    "xxoxbbbbo": [
+        4,
+        6,
+        7,
+        5
+    ],
+    "xxoxbbbob": [
+        8,
+        4,
+        6,
+        5
+    ],
+    "xxoxbbobb": [
+        4,
+        8,
+        7,
+        5
+    ],
+    "xxoxbobbb": [
+        8,
+        4,
+        6,
+        7
+    ],
+    "xxoxobbbb": [
+        8,
+        6,
+        7,
+        5
+    ],
+    "bbooxxoxx": [
+        0,
+        1
+    ],
+    "bbooxxxox": [
+        0,
+        1
+    ],
+    "bbooxxxxo": [
+        0,
+        1
+    ],
+    "bboxoxoxx": [
+        0,
+        1
+    ],
+    "bboxoxxox": [
+        0,
+        1
+    ],
+    "bboxoxxxo": [
+        0,
+        1
+    ],
+    "bboxxooxx": [
+        0,
+        1
+    ],
+    "bboxxoxox": [
+        0,
+        1
+    ],
+    "bboxxoxxo": [
+        0,
+        1
+    ],
+    "bbxooxoxx": [
+        0,
+        1
+    ],
+    "bbxooxxox": [
+        0,
+        1
+    ],
+    "bbxooxxxo": [
+        0,
+        1
+    ],
+    "bbxoxooxx": [
+        0,
+        1
+    ],
+    "bbxoxxoox": [
+        0,
+        1
+    ],
+    "bbxoxxoxo": [
+        0,
+        1
+    ],
+    "bbxoxxxoo": [
+        0,
+        1
+    ],
+    "bbxxoooxx": [
+        0,
+        1
+    ],
+    "bbxxooxox": [
+        0,
+        1
+    ],
+    "bbxxooxxo": [
+        0,
+        1
+    ],
+    "bbxxoxoox": [
+        0,
+        1
+    ],
+    "bbxxoxoxo": [
+        0,
+        1
+    ],
+    "bbxxoxxoo": [
+        0,
+        1
+    ],
+    "bbxxxooox": [
+        0,
+        1
+    ],
+    "bbxxxooxo": [
+        0,
+        1
+    ],
+    "bbxxxoxoo": [
+        0,
+        1
+    ],
+    "boboxxoxx": [
+        2,
+        0
+    ],
+    "boboxxxox": [
+        2,
+        0
+    ],
+    "boboxxxxo": [
+        2,
+        0
+    ],
+    "bobxoxoxx": [
+        2,
+        0
+    ],
+    "bobxoxxox": [
+        2,
+        0
+    ],
+    "bobxoxxxo": [
+        2,
+        0
+    ],
+    "bobxxooxx": [
+        2,
+        0
+    ],
+    "bobxxoxox": [
+        2,
+        0
+    ],
+    "bobxxoxxo": [
+        2,
+        0
+    ],
+    "boobxxoxx": [
+        0,
+        3
+    ],
+    "boobxxxox": [
+        0,
+        3
+    ],
+    "boobxxxxo": [
+        0,
+        3
+    ],
+    "boooxxbxx": [
+        6,
+        0
+    ],
+    "boooxxxbx": [
+        7,
+        0
+    ],
+    "boooxxxxb": [
+        8,
+        0
+    ],
+    "booxbxoxx": [
+        4,
+        0
+    ],
+    "booxbxxox": [
+        4,
+        0
+    ],
+    "booxbxxxo": [
+        4,
+        0
+    ],
+    "booxoxbxx": [
+        6,
+        0
+    ],
+    "booxoxxbx": [
+        7,
+        0
+    ],
+    "booxoxxxb": [
+        8,
+        0
+    ],
+    "booxxboxx": [
+        5,
+        0
+    ],
+    "booxxbxox": [
+        5,
+        0
+    ],
+    "booxxbxxo": [
+        5,
+        0
+    ],
+    "booxxobxx": [
+        6,
+        0
+    ],
+    "booxxoxbx": [
+        7,
+        0
+    ],
+    "booxxoxxb": [
+        8,
+        0
+    ],
+    "boxboxoxx": [
+        0,
+        3
+    ],
+    "boxboxxox": [
+        0,
+        3
+    ],
+    "boxboxxxo": [
+        0,
+        3
+    ],
+    "boxbxooxx": [
+        0,
+        3
+    ],
+    "boxbxxoox": [
+        0,
+        3
+    ],
+    "boxbxxoxo": [
+        0,
+        3
+    ],
+    "boxbxxxoo": [
+        0,
+        3
+    ],
+    "boxobxoxx": [
+        4,
+        0
+    ],
+    "boxobxxox": [
+        4,
+        0
+    ],
+    "boxobxxxo": [
+        4,
+        0
+    ],
+    "boxooxbxx": [
+        6,
+        0
+    ],
+    "boxooxxbx": [
+        7,
+        0
+    ],
+    "boxooxxxb": [
+        8,
+        0
+    ],
+    "boxoxboxx": [
+        5,
+        0
+    ],
+    "boxoxobxx": [
+        6,
+        0
+    ],
+    "boxoxxbox": [
+        6,
+        0
+    ],
+    "boxoxxbxo": [
+        6,
+        0
+    ],
+    "boxoxxobx": [
+        7,
+        0
+    ],
+    "boxoxxoxb": [
+        8,
+        0
+    ],
+    "boxoxxxbo": [
+        7,
+        0
+    ],
+    "boxoxxxob": [
+        8,
+        0
+    ],
+    "boxxbooxx": [
+        4,
+        0
+    ],
+    "boxxboxox": [
+        4,
+        0
+    ],
+    "boxxboxxo": [
+        4,
+        0
+    ],
+    "boxxbxoox": [
+        4,
+        0
+    ],
+    "boxxbxoxo": [
+        4,
+        0
+    ],
+    "boxxbxxoo": [
+        4,
+        0
+    ],
+    "boxxoboxx": [
+        5,
+        0
+    ],
+    "boxxobxox": [
+        5,
+        0
+    ],
+    "boxxobxxo": [
+        5,
+        0
+    ],
+    "boxxoobxx": [
+        6,
+        0
+    ],
+    "boxxooxbx": [
+        7,
+        0
+    ],
+    "boxxooxxb": [
+        8,
+        0
+    ],
+    "boxxoxbox": [
+        6,
+        0
+    ],
+    "boxxoxbxo": [
+        6,
+        0
+    ],
+    "boxxoxobx": [
+        7,
+        0
+    ],
+    "boxxoxoxb": [
+        8,
+        0
+    ],
+    "boxxoxxbo": [
+        7,
+        0
+    ],
+    "boxxoxxob": [
+        8,
+        0
+    ],
+    "boxxxboox": [
+        5,
+        0
+    ],
+    "boxxxboxo": [
+        5,
+        0
+    ],
+    "boxxxbxoo": [
+        5,
+        0
+    ],
+    "boxxxobox": [
+        6,
+        0
+    ],
+    "boxxxobxo": [
+        6,
+        0
+    ],
+    "boxxxoobx": [
+        7,
+        0
+    ],
+    "boxxxooxb": [
+        8,
+        0
+    ],
+    "boxxxoxbo": [
+        7,
+        0
+    ],
+    "boxxxoxob": [
+        8,
+        0
+    ],
+    "bxbooxoxx": [
+        2,
+        0
+    ],
+    "bxbooxxox": [
+        2,
+        0
+    ],
+    "bxbooxxxo": [
+        2,
+        0
+    ],
+    "bxboxoxox": [
+        2,
+        0
+    ],
+    "bxboxoxxo": [
+        2,
+        0
+    ],
+    "bxboxxoox": [
+        2,
+        0
+    ],
+    "bxboxxoxo": [
+        2,
+        0
+    ],
+    "bxboxxxoo": [
+        2,
+        0
+    ],
+    "bxbxoooxx": [
+        2,
+        0
+    ],
+    "bxbxooxox": [
+        2,
+        0
+    ],
+    "bxbxooxxo": [
+        2,
+        0
+    ],
+    "bxbxoxoox": [
+        2,
+        0
+    ],
+    "bxbxoxoxo": [
+        2,
+        0
+    ],
+    "bxbxoxxoo": [
+        2,
+        0
+    ],
+    "bxbxxooox": [
+        2,
+        0
+    ],
+    "bxbxxooxo": [
+        2,
+        0
+    ],
+    "bxbxxoxoo": [
+        2,
+        0
+    ],
+    "bxoboxoxx": [
+        0,
+        3
+    ],
+    "bxoboxxox": [
+        0,
+        3
+    ],
+    "bxoboxxxo": [
+        0,
+        3
+    ],
+    "bxobxoxox": [
+        0,
+        3
+    ],
+    "bxobxoxxo": [
+        0,
+        3
+    ],
+    "bxobxxoox": [
+        0,
+        3
+    ],
+    "bxobxxoxo": [
+        0,
+        3
+    ],
+    "bxobxxxoo": [
+        0,
+        3
+    ],
+    "bxoobxoxx": [
+        4,
+        0
+    ],
+    "bxoobxxox": [
+        4,
+        0
+    ],
+    "bxoobxxxo": [
+        4,
+        0
+    ],
+    "bxoooxbxx": [
+        6,
+        0
+    ],
+    "bxoooxxbx": [
+        7,
+        0
+    ],
+    "bxoooxxxb": [
+        8,
+        0
+    ],
+    "bxooxbxox": [
+        5,
+        0
+    ],
+    "bxooxbxxo": [
+        5,
+        0
+    ],
+    "bxooxoxbx": [
+        7,
+        0
+    ],
+    "bxooxoxxb": [
+        8,
+        0
+    ],
+    "bxooxxbox": [
+        6,
+        0
+    ],
+    "bxooxxbxo": [
+        6,
+        0
+    ],
+    "bxooxxobx": [
+        7,
+        0
+    ],
+    "bxooxxoxb": [
+        8,
+        0
+    ],
+    "bxooxxxbo": [
+        7,
+        0
+    ],
+    "bxooxxxob": [
+        8,
+        0
+    ],
+    "bxoxbooxx": [
+        4,
+        0
+    ],
+    "bxoxboxox": [
+        4,
+        0
+    ],
+    "bxoxboxxo": [
+        4,
+        0
+    ],
+    "bxoxbxoox": [
+        4,
+        0
+    ],
+    "bxoxbxoxo": [
+        4,
+        0
+    ],
+    "bxoxbxxoo": [
+        4,
+        0
+    ],
+    "bxoxoboxx": [
+        5,
+        0
+    ],
+    "bxoxobxox": [
+        5,
+        0
+    ],
+    "bxoxobxxo": [
+        5,
+        0
+    ],
+    "bxoxoobxx": [
+        6,
+        0
+    ],
+    "bxoxooxbx": [
+        7,
+        0
+    ],
+    "bxoxooxxb": [
+        8,
+        0
+    ],
+    "bxoxoxbox": [
+        6,
+        0
+    ],
+    "bxoxoxbxo": [
+        6,
+        0
+    ],
+    "bxoxoxobx": [
+        7,
+        0
+    ],
+    "bxoxoxoxb": [
+        8,
+        0
+    ],
+    "bxoxoxxbo": [
+        7,
+        0
+    ],
+    "bxoxoxxob": [
+        8,
+        0
+    ],
+    "bxoxxboox": [
+        5,
+        0
+    ],
+    "bxoxxboxo": [
+        5,
+        0
+    ],
+    "bxoxxbxoo": [
+        5,
+        0
+    ],
+    "bxoxxobox": [
+        6,
+        0
+    ],
+    "bxoxxobxo": [
+        6,
+        0
+    ],
+    "bxoxxoobx": [
+        7,
+        0
+    ],
+    "bxoxxooxb": [
+        8,
+        0
+    ],
+    "bxoxxoxbo": [
+        7,
+        0
+    ],
+    "bxoxxoxob": [
+        8,
+        0
+    ],
+    "bxxboooxx": [
+        0,
+        3
+    ],
+    "bxxbooxox": [
+        0,
+        3
+    ],
+    "bxxbooxxo": [
+        0,
+        3
+    ],
+    "bxxboxoxo": [
+        0,
+        3
+    ],
+    "bxxboxxoo": [
+        0,
+        3
+    ],
+    "bxxbxooox": [
+        0,
+        3
+    ],
+    "bxxbxooxo": [
+        0,
+        3
+    ],
+    "bxxbxxooo": [
+        0,
+        3
+    ],
+    "bxxobooxx": [
+        4,
+        0
+    ],
+    "bxxoboxox": [
+        4,
+        0
+    ],
+    "bxxoboxxo": [
+        4,
+        0
+    ],
+    "bxxobxoxo": [
+        4,
+        0
+    ],
+    "bxxobxxoo": [
+        4,
+        0
+    ],
+    "bxxooboxx": [
+        5,
+        0
+    ],
+    "bxxoobxox": [
+        5,
+        0
+    ],
+    "bxxoobxxo": [
+        5,
+        0
+    ],
+    "bxxooobxx": [
+        6,
+        0
+    ],
+    "bxxoooxbx": [
+        7,
+        0
+    ],
+    "bxxoooxxb": [
+        8,
+        0
+    ],
+    "bxxooxbxo": [
+        6,
+        0
+    ],
+    "bxxooxoxb": [
+        8,
+        0
+    ],
+    "bxxooxxbo": [
+        7,
+        0
+    ],
+    "bxxooxxob": [
+        8,
+        0
+    ],
+    "bxxoxboox": [
+        5,
+        0
+    ],
+    "bxxoxboxo": [
+        5,
+        0
+    ],
+    "bxxoxobox": [
+        6,
+        0
+    ],
+    "bxxoxobxo": [
+        6,
+        0
+    ],
+    "bxxoxoobx": [
+        7,
+        0
+    ],
+    "bxxoxooxb": [
+        8,
+        0
+    ],
+    "bxxoxxboo": [
+        6,
+        0
+    ],
+    "bxxoxxobo": [
+        7,
+        0
+    ],
+    "bxxoxxoob": [
+        8,
+        0
+    ],
+    "bxxxbooox": [
+        4,
+        0
+    ],
+    "bxxxbooxo": [
+        4,
+        0
+    ],
+    "bxxxboxoo": [
+        4,
+        0
+    ],
+    "bxxxbxooo": [
+        4,
+        0
+    ],
+    "bxxxoboox": [
+        5,
+        0
+    ],
+    "bxxxoboxo": [
+        5,
+        0
+    ],
+    "bxxxobxoo": [
+        5,
+        0
+    ],
+    "bxxxoobox": [
+        6,
+        0
+    ],
+    "bxxxoobxo": [
+        6,
+        0
+    ],
+    "bxxxooobx": [
+        7,
+        0
+    ],
+    "bxxxoooxb": [
+        8,
+        0
+    ],
+    "bxxxooxbo": [
+        7,
+        0
+    ],
+    "bxxxooxob": [
+        8,
+        0
+    ],
+    "bxxxoxboo": [
+        6,
+        0
+    ],
+    "bxxxoxobo": [
+        7,
+        0
+    ],
+    "bxxxoxoob": [
+        8,
+        0
+    ],
+    "bxxxxbooo": [
+        5,
+        0
+    ],
+    "bxxxxoboo": [
+        6,
+        0
+    ],
+    "bxxxxoobo": [
+        7,
+        0
+    ],
+    "bxxxxooob": [
+        8,
+        0
+    ],
+    "obboxxoxx": [
+        2,
+        1
+    ],
+    "obboxxxox": [
+        2,
+        1
+    ],
+    "obboxxxxo": [
+        2,
+        1
+    ],
+    "obbxoxoxx": [
+        2,
+        1
+    ],
+    "obbxoxxox": [
+        2,
+        1
+    ],
+    "obbxoxxxo": [
+        2,
+        1
+    ],
+    "obbxxooxx": [
+        2,
+        1
+    ],
+    "obbxxoxox": [
+        2,
+        1
+    ],
+    "obbxxoxxo": [
+        2,
+        1
+    ],
+    "obobxxoxx": [
+        3,
+        1
+    ],
+    "obobxxxox": [
+        3,
+        1
+    ],
+    "obobxxxxo": [
+        3,
+        1
+    ],
+    "obooxxbxx": [
+        6,
+        1
+    ],
+    "obooxxxbx": [
+        7,
+        1
+    ],
+    "obooxxxxb": [
+        8,
+        1
+    ],
+    "oboxbxoxx": [
+        4,
+        1
+    ],
+    "oboxbxxox": [
+        4,
+        1
+    ],
+    "oboxbxxxo": [
+        4,
+        1
+    ],
+    "oboxoxbxx": [
+        6,
+        1
+    ],
+    "oboxoxxbx": [
+        7,
+        1
+    ],
+    "oboxoxxxb": [
+        8,
+        1
+    ],
+    "oboxxboxx": [
+        5,
+        1
+    ],
+    "oboxxbxox": [
+        5,
+        1
+    ],
+    "oboxxbxxo": [
+        5,
+        1
+    ],
+    "oboxxobxx": [
+        6,
+        1
+    ],
+    "oboxxoxbx": [
+        7,
+        1
+    ],
+    "oboxxoxxb": [
+        8,
+        1
+    ],
+    "obxboxoxx": [
+        3,
+        1
+    ],
+    "obxboxxox": [
+        3,
+        1
+    ],
+    "obxboxxxo": [
+        3,
+        1
+    ],
+    "obxbxooxx": [
+        3,
+        1
+    ],
+    "obxbxxoox": [
+        3,
+        1
+    ],
+    "obxbxxoxo": [
+        3,
+        1
+    ],
+    "obxbxxxoo": [
+        3,
+        1
+    ],
+    "obxobxoxx": [
+        4,
+        1
+    ],
+    "obxobxxox": [
+        4,
+        1
+    ],
+    "obxobxxxo": [
+        4,
+        1
+    ],
+    "obxooxbxx": [
+        6,
+        1
+    ],
+    "obxooxxbx": [
+        7,
+        1
+    ],
+    "obxooxxxb": [
+        8,
+        1
+    ],
+    "obxoxboxx": [
+        5,
+        1
+    ],
+    "obxoxobxx": [
+        6,
+        1
+    ],
+    "obxoxxbox": [
+        6,
+        1
+    ],
+    "obxoxxbxo": [
+        6,
+        1
+    ],
+    "obxoxxobx": [
+        7,
+        1
+    ],
+    "obxoxxoxb": [
+        8,
+        1
+    ],
+    "obxoxxxbo": [
+        7,
+        1
+    ],
+    "obxoxxxob": [
+        8,
+        1
+    ],
+    "obxxbooxx": [
+        4,
+        1
+    ],
+    "obxxboxox": [
+        4,
+        1
+    ],
+    "obxxboxxo": [
+        4,
+        1
+    ],
+    "obxxbxoox": [
+        4,
+        1
+    ],
+    "obxxbxoxo": [
+        4,
+        1
+    ],
+    "obxxbxxoo": [
+        4,
+        1
+    ],
+    "obxxoboxx": [
+        5,
+        1
+    ],
+    "obxxobxox": [
+        5,
+        1
+    ],
+    "obxxobxxo": [
+        5,
+        1
+    ],
+    "obxxoobxx": [
+        6,
+        1
+    ],
+    "obxxooxbx": [
+        7,
+        1
+    ],
+    "obxxooxxb": [
+        8,
+        1
+    ],
+    "obxxoxbox": [
+        6,
+        1
+    ],
+    "obxxoxbxo": [
+        6,
+        1
+    ],
+    "obxxoxobx": [
+        7,
+        1
+    ],
+    "obxxoxoxb": [
+        8,
+        1
+    ],
+    "obxxoxxbo": [
+        7,
+        1
+    ],
+    "obxxoxxob": [
+        8,
+        1
+    ],
+    "obxxxboox": [
+        5,
+        1
+    ],
+    "obxxxboxo": [
+        5,
+        1
+    ],
+    "obxxxbxoo": [
+        5,
+        1
+    ],
+    "obxxxobox": [
+        6,
+        1
+    ],
+    "obxxxobxo": [
+        6,
+        1
+    ],
+    "obxxxoobx": [
+        7,
+        1
+    ],
+    "obxxxooxb": [
+        8,
+        1
+    ],
+    "obxxxoxbo": [
+        7,
+        1
+    ],
+    "obxxxoxob": [
+        8,
+        1
+    ],
+    "oobbxxoxx": [
+        2,
+        3
+    ],
+    "oobbxxxox": [
+        2,
+        3
+    ],
+    "oobbxxxxo": [
+        2,
+        3
+    ],
+    "ooboxxbxx": [
+        2,
+        6
+    ],
+    "ooboxxxbx": [
+        2,
+        7
+    ],
+    "ooboxxxxb": [
+        2,
+        8
+    ],
+    "oobxbxoxx": [
+        2,
+        4
+    ],
+    "oobxbxxox": [
+        2,
+        4
+    ],
+    "oobxbxxxo": [
+        2,
+        4
+    ],
+    "oobxoxbxx": [
+        2,
+        6
+    ],
+    "oobxoxxbx": [
+        2,
+        7
+    ],
+    "oobxoxxxb": [
+        2,
+        8
+    ],
+    "oobxxboxx": [
+        2,
+        5
+    ],
+    "oobxxbxox": [
+        2,
+        5
+    ],
+    "oobxxbxxo": [
+        2,
+        5
+    ],
+    "oobxxobxx": [
+        2,
+        6
+    ],
+    "oobxxoxbx": [
+        2,
+        7
+    ],
+    "oobxxoxxb": [
+        2,
+        8
+    ],
+    "ooobxxbxx": [
+        6,
+        3
+    ],
+    "ooobxxxbx": [
+        7,
+        3
+    ],
+    "ooobxxxxb": [
+        8,
+        3
+    ],
+    "oooxbxbxx": [
+        4,
+        6
+    ],
+    "oooxbxxbx": [
+        4,
+        7
+    ],
+    "oooxbxxxb": [
+        4,
+        8
+    ],
+    "oooxxbbxx": [
+        6,
+        5
+    ],
+    "oooxxbxbx": [
+        7,
+        5
+    ],
+    "oooxxbxxb": [
+        8,
+        5
+    ],
+    "ooxbbxoxx": [
+        4,
+        3
+    ],
+    "ooxbbxxox": [
+        4,
+        3
+    ],
+    "ooxbbxxxo": [
+        4,
+        3
+    ],
+    "ooxboxbxx": [
+        6,
+        3
+    ],
+    "ooxboxxbx": [
+        7,
+        3
+    ],
+    "ooxboxxxb": [
+        8,
+        3
+    ],
+    "ooxbxboxx": [
+        5,
+        3
+    ],
+    "ooxbxobxx": [
+        6,
+        3
+    ],
+    "ooxbxxbox": [
+        6,
+        3
+    ],
+    "ooxbxxbxo": [
+        6,
+        3
+    ],
+    "ooxbxxobx": [
+        7,
+        3
+    ],
+    "ooxbxxoxb": [
+        8,
+        3
+    ],
+    "ooxbxxxbo": [
+        7,
+        3
+    ],
+    "ooxbxxxob": [
+        8,
+        3
+    ],
+    "ooxobxbxx": [
+        4,
+        6
+    ],
+    "ooxobxxbx": [
+        4,
+        7
+    ],
+    "ooxobxxxb": [
+        4,
+        8
+    ],
+    "ooxoxbbxx": [
+        6,
+        5
+    ],
+    "ooxoxxbbx": [
+        6,
+        7
+    ],
+    "ooxoxxbxb": [
+        8,
+        6
+    ],
+    "ooxoxxxbb": [
+        8,
+        7
+    ],
+    "ooxxbboxx": [
+        4,
+        5
+    ],
+    "ooxxbbxox": [
+        4,
+        5
+    ],
+    "ooxxbbxxo": [
+        4,
+        5
+    ],
+    "ooxxbobxx": [
+        4,
+        6
+    ],
+    "ooxxboxbx": [
+        4,
+        7
+    ],
+    "ooxxboxxb": [
+        4,
+        8
+    ],
+    "ooxxbxbox": [
+        4,
+        6
+    ],
+    "ooxxbxbxo": [
+        4,
+        6
+    ],
+    "ooxxbxobx": [
+        4,
+        7
+    ],
+    "ooxxbxoxb": [
+        4,
+        8
+    ],
+    "ooxxbxxbo": [
+        4,
+        7
+    ],
+    "ooxxbxxob": [
+        4,
+        8
+    ],
+    "ooxxobbxx": [
+        6,
+        5
+    ],
+    "ooxxobxbx": [
+        7,
+        5
+    ],
+    "ooxxobxxb": [
+        8,
+        5
+    ],
+    "ooxxoxbbx": [
+        6,
+        7
+    ],
+    "ooxxoxbxb": [
+        8,
+        6
+    ],
+    "ooxxoxxbb": [
+        8,
+        7
+    ],
+    "ooxxxbbox": [
+        6,
+        5
+    ],
+    "ooxxxbbxo": [
+        6,
+        5
+    ],
+    "ooxxxbobx": [
+        7,
+        5
+    ],
+    "ooxxxboxb": [
+        8,
+        5
+    ],
+    "ooxxxbxbo": [
+        7,
+        5
+    ],
+    "ooxxxbxob": [
+        8,
+        5
+    ],
+    "ooxxxobbx": [
+        6,
+        7
+    ],
+    "ooxxxobxb": [
+        8,
+        6
+    ],
+    "ooxxxoxbb": [
+        8,
+        7
+    ],
+    "oxbboxoxx": [
+        2,
+        3
+    ],
+    "oxbboxxox": [
+        2,
+        3
+    ],
+    "oxbboxxxo": [
+        2,
+        3
+    ],
+    "oxbbxoxox": [
+        2,
+        3
+    ],
+    "oxbbxoxxo": [
+        2,
+        3
+    ],
+    "oxbbxxoox": [
+        2,
+        3
+    ],
+    "oxbbxxoxo": [
+        2,
+        3
+    ],
+    "oxbbxxxoo": [
+        2,
+        3
+    ],
+    "oxbobxoxx": [
+        2,
+        4
+    ],
+    "oxbobxxox": [
+        2,
+        4
+    ],
+    "oxbobxxxo": [
+        2,
+        4
+    ],
+    "oxbooxbxx": [
+        2,
+        6
+    ],
+    "oxbooxxbx": [
+        2,
+        7
+    ],
+    "oxbooxxxb": [
+        2,
+        8
+    ],
+    "oxboxbxox": [
+        2,
+        5
+    ],
+    "oxboxbxxo": [
+        2,
+        5
+    ],
+    "oxboxoxbx": [
+        2,
+        7
+    ],
+    "oxboxoxxb": [
+        2,
+        8
+    ],
+    "oxboxxbox": [
+        2,
+        6
+    ],
+    "oxboxxbxo": [
+        2,
+        6
+    ],
+    "oxboxxobx": [
+        2,
+        7
+    ],
+    "oxboxxoxb": [
+        2,
+        8
+    ],
+    "oxboxxxbo": [
+        2,
+        7
+    ],
+    "oxboxxxob": [
+        2,
+        8
+    ],
+    "oxbxbooxx": [
+        2,
+        4
+    ],
+    "oxbxboxox": [
+        2,
+        4
+    ],
+    "oxbxboxxo": [
+        2,
+        4
+    ],
+    "oxbxbxoox": [
+        2,
+        4
+    ],
+    "oxbxbxoxo": [
+        2,
+        4
+    ],
+    "oxbxbxxoo": [
+        2,
+        4
+    ],
+    "oxbxoboxx": [
+        2,
+        5
+    ],
+    "oxbxobxox": [
+        2,
+        5
+    ],
+    "oxbxobxxo": [
+        2,
+        5
+    ],
+    "oxbxoobxx": [
+        2,
+        6
+    ],
+    "oxbxooxbx": [
+        2,
+        7
+    ],
+    "oxbxooxxb": [
+        2,
+        8
+    ],
+    "oxbxoxbox": [
+        2,
+        6
+    ],
+    "oxbxoxbxo": [
+        2,
+        6
+    ],
+    "oxbxoxobx": [
+        2,
+        7
+    ],
+    "oxbxoxoxb": [
+        2,
+        8
+    ],
+    "oxbxoxxbo": [
+        2,
+        7
+    ],
+    "oxbxoxxob": [
+        2,
+        8
+    ],
+    "oxbxxboox": [
+        2,
+        5
+    ],
+    "oxbxxboxo": [
+        2,
+        5
+    ],
+    "oxbxxbxoo": [
+        2,
+        5
+    ],
+    "oxbxxobox": [
+        2,
+        6
+    ],
+    "oxbxxobxo": [
+        2,
+        6
+    ],
+    "oxbxxoobx": [
+        2,
+        7
+    ],
+    "oxbxxooxb": [
+        2,
+        8
+    ],
+    "oxbxxoxbo": [
+        2,
+        7
+    ],
+    "oxbxxoxob": [
+        2,
+        8
+    ],
+    "oxobbxoxx": [
+        4,
+        3
+    ],
+    "oxobbxxox": [
+        4,
+        3
+    ],
+    "oxobbxxxo": [
+        4,
+        3
+    ],
+    "oxoboxbxx": [
+        6,
+        3
+    ],
+    "oxoboxxbx": [
+        7,
+        3
+    ],
+    "oxoboxxxb": [
+        8,
+        3
+    ],
+    "oxobxbxox": [
+        5,
+        3
+    ],
+    "oxobxbxxo": [
+        5,
+        3
+    ],
+    "oxobxoxbx": [
+        7,
+        3
+    ],
+    "oxobxoxxb": [
+        8,
+        3
+    ],
+    "oxobxxbox": [
+        6,
+        3
+    ],
+    "oxobxxbxo": [
+        6,
+        3
+    ],
+    "oxobxxobx": [
+        7,
+        3
+    ],
+    "oxobxxoxb": [
+        8,
+        3
+    ],
+    "oxobxxxbo": [
+        7,
+        3
+    ],
+    "oxobxxxob": [
+        8,
+        3
+    ],
+    "oxoobxbxx": [
+        4,
+        6
+    ],
+    "oxoobxxbx": [
+        4,
+        7
+    ],
+    "oxoobxxxb": [
+        4,
+        8
+    ],
+    "oxooxbxbx": [
+        7,
+        5
+    ],
+    "oxooxbxxb": [
+        8,
+        5
+    ],
+    "oxooxxbbx": [
+        6,
+        7
+    ],
+    "oxooxxbxb": [
+        8,
+        6
+    ],
+    "oxooxxxbb": [
+        8,
+        7
+    ],
+    "oxoxbboxx": [
+        4,
+        5
+    ],
+    "oxoxbbxox": [
+        4,
+        5
+    ],
+    "oxoxbbxxo": [
+        4,
+        5
+    ],
+    "oxoxbobxx": [
+        4,
+        6
+    ],
+    "oxoxboxbx": [
+        4,
+        7
+    ],
+    "oxoxboxxb": [
+        4,
+        8
+    ],
+    "oxoxbxbox": [
+        4,
+        6
+    ],
+    "oxoxbxbxo": [
+        4,
+        6
+    ],
+    "oxoxbxobx": [
+        4,
+        7
+    ],
+    "oxoxbxoxb": [
+        4,
+        8
+    ],
+    "oxoxbxxbo": [
+        4,
+        7
+    ],
+    "oxoxbxxob": [
+        4,
+        8
+    ],
+    "oxoxobbxx": [
+        6,
+        5
+    ],
+    "oxoxobxbx": [
+        7,
+        5
+    ],
+    "oxoxobxxb": [
+        8,
+        5
+    ],
+    "oxoxoxbbx": [
+        6,
+        7
+    ],
+    "oxoxoxbxb": [
+        8,
+        6
+    ],
+    "oxoxoxxbb": [
+        8,
+        7
+    ],
+    "oxoxxbbox": [
+        6,
+        5
+    ],
+    "oxoxxbbxo": [
+        6,
+        5
+    ],
+    "oxoxxbobx": [
+        7,
+        5
+    ],
+    "oxoxxboxb": [
+        8,
+        5
+    ],
+    "oxoxxbxbo": [
+        7,
+        5
+    ],
+    "oxoxxbxob": [
+        8,
+        5
+    ],
+    "oxoxxobbx": [
+        6,
+        7
+    ],
+    "oxoxxobxb": [
+        8,
+        6
+    ],
+    "oxoxxoxbb": [
+        8,
+        7
+    ],
+    "oxxbbooxx": [
+        4,
+        3
+    ],
+    "oxxbboxox": [
+        4,
+        3
+    ],
+    "oxxbboxxo": [
+        4,
+        3
+    ],
+    "oxxbbxoxo": [
+        4,
+        3
+    ],
+    "oxxbbxxoo": [
+        4,
+        3
+    ],
+    "oxxboboxx": [
+        5,
+        3
+    ],
+    "oxxbobxox": [
+        5,
+        3
+    ],
+    "oxxbobxxo": [
+        5,
+        3
+    ],
+    "oxxboobxx": [
+        6,
+        3
+    ],
+    "oxxbooxbx": [
+        7,
+        3
+    ],
+    "oxxbooxxb": [
+        8,
+        3
+    ],
+    "oxxboxbxo": [
+        6,
+        3
+    ],
+    "oxxboxoxb": [
+        8,
+        3
+    ],
+    "oxxboxxbo": [
+        7,
+        3
+    ],
+    "oxxboxxob": [
+        8,
+        3
+    ],
+    "oxxbxboox": [
+        5,
+        3
+    ],
+    "oxxbxboxo": [
+        5,
+        3
+    ],
+    "oxxbxobox": [
+        6,
+        3
+    ],
+    "oxxbxobxo": [
+        6,
+        3
+    ],
+    "oxxbxoobx": [
+        7,
+        3
+    ],
+    "oxxbxooxb": [
+        8,
+        3
+    ],
+    "oxxbxxboo": [
+        6,
+        3
+    ],
+    "oxxbxxobo": [
+        7,
+        3
+    ],
+    "oxxbxxoob": [
+        8,
+        3
+    ],
+    "oxxobboxx": [
+        4,
+        5
+    ],
+    "oxxobbxox": [
+        4,
+        5
+    ],
+    "oxxobbxxo": [
+        4,
+        5
+    ],
+    "oxxobobxx": [
+        4,
+        6
+    ],
+    "oxxoboxbx": [
+        4,
+        7
+    ],
+    "oxxoboxxb": [
+        4,
+        8
+    ],
+    "oxxobxbxo": [
+        4,
+        6
+    ],
+    "oxxobxoxb": [
+        4,
+        8
+    ],
+    "oxxobxxbo": [
+        4,
+        7
+    ],
+    "oxxobxxob": [
+        4,
+        8
+    ],
+    "oxxoobbxx": [
+        6,
+        5
+    ],
+    "oxxoobxbx": [
+        7,
+        5
+    ],
+    "oxxoobxxb": [
+        8,
+        5
+    ],
+    "oxxooxbxb": [
+        8,
+        6
+    ],
+    "oxxooxxbb": [
+        8,
+        7
+    ],
+    "oxxoxbbox": [
+        6,
+        5
+    ],
+    "oxxoxbbxo": [
+        6,
+        5
+    ],
+    "oxxoxbobx": [
+        7,
+        5
+    ],
+    "oxxoxboxb": [
+        8,
+        5
+    ],
+    "oxxoxobbx": [
+        6,
+        7
+    ],
+    "oxxoxobxb": [
+        8,
+        6
+    ],
+    "oxxoxxbbo": [
+        6,
+        7
+    ],
+    "oxxoxxbob": [
+        8,
+        6
+    ],
+    "oxxoxxobb": [
+        8,
+        7
+    ],
+    "oxxxbboox": [
+        4,
+        5
+    ],
+    "oxxxbboxo": [
+        4,
+        5
+    ],
+    "oxxxbbxoo": [
+        4,
+        5
+    ],
+    "oxxxbobox": [
+        4,
+        6
+    ],
+    "oxxxbobxo": [
+        4,
+        6
+    ],
+    "oxxxboobx": [
+        4,
+        7
+    ],
+    "oxxxbooxb": [
+        4,
+        8
+    ],
+    "oxxxboxbo": [
+        4,
+        7
+    ],
+    "oxxxboxob": [
+        4,
+        8
+    ],
+    "oxxxbxboo": [
+        4,
+        6
+    ],
+    "oxxxbxobo": [
+        4,
+        7
+    ],
+    "oxxxbxoob": [
+        4,
+        8
+    ],
+    "oxxxobbox": [
+        6,
+        5
+    ],
+    "oxxxobbxo": [
+        6,
+        5
+    ],
+    "oxxxobobx": [
+        7,
+        5
+    ],
+    "oxxxoboxb": [
+        8,
+        5
+    ],
+    "oxxxobxbo": [
+        7,
+        5
+    ],
+    "oxxxobxob": [
+        8,
+        5
+    ],
+    "oxxxoobbx": [
+        6,
+        7
+    ],
+    "oxxxoobxb": [
+        8,
+        6
+    ],
+    "oxxxooxbb": [
+        8,
+        7
+    ],
+    "oxxxoxbbo": [
+        6,
+        7
+    ],
+    "oxxxoxbob": [
+        8,
+        6
+    ],
+    "oxxxoxobb": [
+        8,
+        7
+    ],
+    "oxxxxbboo": [
+        6,
+        5
+    ],
+    "oxxxxbobo": [
+        7,
+        5
+    ],
+    "oxxxxboob": [
+        8,
+        5
+    ],
+    "oxxxxobbo": [
+        6,
+        7
+    ],
+    "oxxxxobob": [
+        8,
+        6
+    ],
+    "oxxxxoobb": [
+        8,
+        7
+    ],
+    "xbbooxoxx": [
+        2,
+        1
+    ],
+    "xbbooxxox": [
+        2,
+        1
+    ],
+    "xbbooxxxo": [
+        2,
+        1
+    ],
+    "xbboxooxx": [
+        2,
+        1
+    ],
+    "xbboxoxox": [
+        2,
+        1
+    ],
+    "xbboxoxxo": [
+        2,
+        1
+    ],
+    "xbboxxoox": [
+        2,
+        1
+    ],
+    "xbboxxoxo": [
+        2,
+        1
+    ],
+    "xbboxxxoo": [
+        2,
+        1
+    ],
+    "xbbxoooxx": [
+        2,
+        1
+    ],
+    "xbbxoxoox": [
+        2,
+        1
+    ],
+    "xbbxoxoxo": [
+        2,
+        1
+    ],
+    "xbbxoxxoo": [
+        2,
+        1
+    ],
+    "xbbxxooox": [
+        2,
+        1
+    ],
+    "xbbxxooxo": [
+        2,
+        1
+    ],
+    "xbbxxoxoo": [
+        2,
+        1
+    ],
+    "xboboxoxx": [
+        3,
+        1
+    ],
+    "xboboxxox": [
+        3,
+        1
+    ],
+    "xboboxxxo": [
+        3,
+        1
+    ],
+    "xbobxooxx": [
+        3,
+        1
+    ],
+    "xbobxoxox": [
+        3,
+        1
+    ],
+    "xbobxoxxo": [
+        3,
+        1
+    ],
+    "xbobxxoox": [
+        3,
+        1
+    ],
+    "xbobxxoxo": [
+        3,
+        1
+    ],
+    "xbobxxxoo": [
+        3,
+        1
+    ],
+    "xboobxoxx": [
+        4,
+        1
+    ],
+    "xboobxxox": [
+        4,
+        1
+    ],
+    "xboobxxxo": [
+        4,
+        1
+    ],
+    "xboooxbxx": [
+        6,
+        1
+    ],
+    "xboooxxbx": [
+        7,
+        1
+    ],
+    "xboooxxxb": [
+        8,
+        1
+    ],
+    "xbooxboxx": [
+        5,
+        1
+    ],
+    "xbooxbxox": [
+        5,
+        1
+    ],
+    "xbooxbxxo": [
+        5,
+        1
+    ],
+    "xbooxobxx": [
+        6,
+        1
+    ],
+    "xbooxoxbx": [
+        7,
+        1
+    ],
+    "xbooxoxxb": [
+        8,
+        1
+    ],
+    "xbooxxbox": [
+        6,
+        1
+    ],
+    "xbooxxbxo": [
+        6,
+        1
+    ],
+    "xbooxxobx": [
+        7,
+        1
+    ],
+    "xbooxxoxb": [
+        8,
+        1
+    ],
+    "xbooxxxbo": [
+        7,
+        1
+    ],
+    "xbooxxxob": [
+        8,
+        1
+    ],
+    "xboxbooxx": [
+        4,
+        1
+    ],
+    "xboxbxoox": [
+        4,
+        1
+    ],
+    "xboxbxoxo": [
+        4,
+        1
+    ],
+    "xboxbxxoo": [
+        4,
+        1
+    ],
+    "xboxoboxx": [
+        5,
+        1
+    ],
+    "xboxoobxx": [
+        6,
+        1
+    ],
+    "xboxoxbox": [
+        6,
+        1
+    ],
+    "xboxoxbxo": [
+        6,
+        1
+    ],
+    "xboxoxobx": [
+        7,
+        1
+    ],
+    "xboxoxoxb": [
+        8,
+        1
+    ],
+    "xboxoxxbo": [
+        7,
+        1
+    ],
+    "xboxoxxob": [
+        8,
+        1
+    ],
+    "xboxxboox": [
+        5,
+        1
+    ],
+    "xboxxboxo": [
+        5,
+        1
+    ],
+    "xboxxbxoo": [
+        5,
+        1
+    ],
+    "xboxxobox": [
+        6,
+        1
+    ],
+    "xboxxobxo": [
+        6,
+        1
+    ],
+    "xboxxoobx": [
+        7,
+        1
+    ],
+    "xboxxooxb": [
+        8,
+        1
+    ],
+    "xboxxoxbo": [
+        7,
+        1
+    ],
+    "xboxxoxob": [
+        8,
+        1
+    ],
+    "xbxboooxx": [
+        3,
+        1
+    ],
+    "xbxbooxox": [
+        3,
+        1
+    ],
+    "xbxbooxxo": [
+        3,
+        1
+    ],
+    "xbxboxoxo": [
+        3,
+        1
+    ],
+    "xbxboxxoo": [
+        3,
+        1
+    ],
+    "xbxbxooox": [
+        3,
+        1
+    ],
+    "xbxbxooxo": [
+        3,
+        1
+    ],
+    "xbxbxxooo": [
+        3,
+        1
+    ],
+    "xbxobooxx": [
+        4,
+        1
+    ],
+    "xbxoboxox": [
+        4,
+        1
+    ],
+    "xbxoboxxo": [
+        4,
+        1
+    ],
+    "xbxobxoxo": [
+        4,
+        1
+    ],
+    "xbxobxxoo": [
+        4,
+        1
+    ],
+    "xbxooboxx": [
+        5,
+        1
+    ],
+    "xbxoobxox": [
+        5,
+        1
+    ],
+    "xbxoobxxo": [
+        5,
+        1
+    ],
+    "xbxooobxx": [
+        6,
+        1
+    ],
+    "xbxoooxbx": [
+        7,
+        1
+    ],
+    "xbxoooxxb": [
+        8,
+        1
+    ],
+    "xbxooxbxo": [
+        6,
+        1
+    ],
+    "xbxooxoxb": [
+        8,
+        1
+    ],
+    "xbxooxxbo": [
+        7,
+        1
+    ],
+    "xbxooxxob": [
+        8,
+        1
+    ],
+    "xbxoxboox": [
+        5,
+        1
+    ],
+    "xbxoxboxo": [
+        5,
+        1
+    ],
+    "xbxoxobox": [
+        6,
+        1
+    ],
+    "xbxoxobxo": [
+        6,
+        1
+    ],
+    "xbxoxoobx": [
+        7,
+        1
+    ],
+    "xbxoxooxb": [
+        8,
+        1
+    ],
+    "xbxoxxboo": [
+        6,
+        1
+    ],
+    "xbxoxxobo": [
+        7,
+        1
+    ],
+    "xbxoxxoob": [
+        8,
+        1
+    ],
+    "xbxxbooox": [
+        4,
+        1
+    ],
+    "xbxxbooxo": [
+        4,
+        1
+    ],
+    "xbxxboxoo": [
+        4,
+        1
+    ],
+    "xbxxbxooo": [
+        4,
+        1
+    ],
+    "xbxxoboox": [
+        5,
+        1
+    ],
+    "xbxxoboxo": [
+        5,
+        1
+    ],
+    "xbxxobxoo": [
+        5,
+        1
+    ],
+    "xbxxoobox": [
+        6,
+        1
+    ],
+    "xbxxoobxo": [
+        6,
+        1
+    ],
+    "xbxxooobx": [
+        7,
+        1
+    ],
+    "xbxxoooxb": [
+        8,
+        1
+    ],
+    "xbxxooxbo": [
+        7,
+        1
+    ],
+    "xbxxooxob": [
+        8,
+        1
+    ],
+    "xbxxoxboo": [
+        6,
+        1
+    ],
+    "xbxxoxobo": [
+        7,
+        1
+    ],
+    "xbxxoxoob": [
+        8,
+        1
+    ],
+    "xbxxxbooo": [
+        5,
+        1
+    ],
+    "xbxxxoboo": [
+        6,
+        1
+    ],
+    "xbxxxoobo": [
+        7,
+        1
+    ],
+    "xbxxxooob": [
+        8,
+        1
+    ],
+    "xobboxoxx": [
+        2,
+        3
+    ],
+    "xobboxxox": [
+        2,
+        3
+    ],
+    "xobboxxxo": [
+        2,
+        3
+    ],
+    "xobbxooxx": [
+        2,
+        3
+    ],
+    "xobbxoxox": [
+        2,
+        3
+    ],
+    "xobbxoxxo": [
+        2,
+        3
+    ],
+    "xobbxxoox": [
+        2,
+        3
+    ],
+    "xobbxxoxo": [
+        2,
+        3
+    ],
+    "xobbxxxoo": [
+        2,
+        3
+    ],
+    "xobobxoxx": [
+        2,
+        4
+    ],
+    "xobobxxox": [
+        2,
+        4
+    ],
+    "xobobxxxo": [
+        2,
+        4
+    ],
+    "xobooxbxx": [
+        2,
+        6
+    ],
+    "xobooxxbx": [
+        2,
+        7
+    ],
+    "xobooxxxb": [
+        2,
+        8
+    ],
+    "xoboxboxx": [
+        2,
+        5
+    ],
+    "xoboxbxox": [
+        2,
+        5
+    ],
+    "xoboxbxxo": [
+        2,
+        5
+    ],
+    "xoboxobxx": [
+        2,
+        6
+    ],
+    "xoboxoxbx": [
+        2,
+        7
+    ],
+    "xoboxoxxb": [
+        2,
+        8
+    ],
+    "xoboxxbox": [
+        2,
+        6
+    ],
+    "xoboxxbxo": [
+        2,
+        6
+    ],
+    "xoboxxobx": [
+        2,
+        7
+    ],
+    "xoboxxoxb": [
+        2,
+        8
+    ],
+    "xoboxxxbo": [
+        2,
+        7
+    ],
+    "xoboxxxob": [
+        2,
+        8
+    ],
+    "xobxbooxx": [
+        2,
+        4
+    ],
+    "xobxbxoox": [
+        2,
+        4
+    ],
+    "xobxbxoxo": [
+        2,
+        4
+    ],
+    "xobxbxxoo": [
+        2,
+        4
+    ],
+    "xobxoboxx": [
+        2,
+        5
+    ],
+    "xobxoobxx": [
+        2,
+        6
+    ],
+    "xobxoxbox": [
+        2,
+        6
+    ],
+    "xobxoxbxo": [
+        2,
+        6
+    ],
+    "xobxoxobx": [
+        2,
+        7
+    ],
+    "xobxoxoxb": [
+        2,
+        8
+    ],
+    "xobxoxxbo": [
+        2,
+        7
+    ],
+    "xobxoxxob": [
+        2,
+        8
+    ],
+    "xobxxboox": [
+        2,
+        5
+    ],
+    "xobxxboxo": [
+        2,
+        5
+    ],
+    "xobxxbxoo": [
+        2,
+        5
+    ],
+    "xobxxobox": [
+        2,
+        6
+    ],
+    "xobxxobxo": [
+        2,
+        6
+    ],
+    "xobxxoobx": [
+        2,
+        7
+    ],
+    "xobxxooxb": [
+        2,
+        8
+    ],
+    "xobxxoxbo": [
+        2,
+        7
+    ],
+    "xobxxoxob": [
+        2,
+        8
+    ],
+    "xoobbxoxx": [
+        4,
+        3
+    ],
+    "xoobbxxox": [
+        4,
+        3
+    ],
+    "xoobbxxxo": [
+        4,
+        3
+    ],
+    "xooboxbxx": [
+        6,
+        3
+    ],
+    "xooboxxbx": [
+        7,
+        3
+    ],
+    "xooboxxxb": [
+        8,
+        3
+    ],
+    "xoobxboxx": [
+        5,
+        3
+    ],
+    "xoobxbxox": [
+        5,
+        3
+    ],
+    "xoobxbxxo": [
+        5,
+        3
+    ],
+    "xoobxobxx": [
+        6,
+        3
+    ],
+    "xoobxoxbx": [
+        7,
+        3
+    ],
+    "xoobxoxxb": [
+        8,
+        3
+    ],
+    "xoobxxbox": [
+        6,
+        3
+    ],
+    "xoobxxbxo": [
+        6,
+        3
+    ],
+    "xoobxxobx": [
+        7,
+        3
+    ],
+    "xoobxxoxb": [
+        8,
+        3
+    ],
+    "xoobxxxbo": [
+        7,
+        3
+    ],
+    "xoobxxxob": [
+        8,
+        3
+    ],
+    "xooobxbxx": [
+        4,
+        6
+    ],
+    "xooobxxbx": [
+        4,
+        7
+    ],
+    "xooobxxxb": [
+        4,
+        8
+    ],
+    "xoooxbbxx": [
+        6,
+        5
+    ],
+    "xoooxbxbx": [
+        7,
+        5
+    ],
+    "xoooxbxxb": [
+        8,
+        5
+    ],
+    "xoooxxbbx": [
+        6,
+        7
+    ],
+    "xoooxxbxb": [
+        8,
+        6
+    ],
+    "xoooxxxbb": [
+        8,
+        7
+    ],
+    "xooxbboxx": [
+        4,
+        5
+    ],
+    "xooxbobxx": [
+        4,
+        6
+    ],
+    "xooxbxbox": [
+        4,
+        6
+    ],
+    "xooxbxbxo": [
+        4,
+        6
+    ],
+    "xooxbxobx": [
+        4,
+        7
+    ],
+    "xooxbxoxb": [
+        4,
+        8
+    ],
+    "xooxbxxbo": [
+        4,
+        7
+    ],
+    "xooxbxxob": [
+        4,
+        8
+    ],
+    "xooxobbxx": [
+        6,
+        5
+    ],
+    "xooxoxbbx": [
+        6,
+        7
+    ],
+    "xooxoxbxb": [
+        8,
+        6
+    ],
+    "xooxoxxbb": [
+        8,
+        7
+    ],
+    "xooxxbbox": [
+        6,
+        5
+    ],
+    "xooxxbbxo": [
+        6,
+        5
+    ],
+    "xooxxbobx": [
+        7,
+        5
+    ],
+    "xooxxboxb": [
+        8,
+        5
+    ],
+    "xooxxbxbo": [
+        7,
+        5
+    ],
+    "xooxxbxob": [
+        8,
+        5
+    ],
+    "xooxxobbx": [
+        6,
+        7
+    ],
+    "xooxxobxb": [
+        8,
+        6
+    ],
+    "xooxxoxbb": [
+        8,
+        7
+    ],
+    "xoxbbooxx": [
+        4,
+        3
+    ],
+    "xoxbboxox": [
+        4,
+        3
+    ],
+    "xoxbboxxo": [
+        4,
+        3
+    ],
+    "xoxbbxoxo": [
+        4,
+        3
+    ],
+    "xoxbbxxoo": [
+        4,
+        3
+    ],
+    "xoxboboxx": [
+        5,
+        3
+    ],
+    "xoxbobxox": [
+        5,
+        3
+    ],
+    "xoxbobxxo": [
+        5,
+        3
+    ],
+    "xoxboobxx": [
+        6,
+        3
+    ],
+    "xoxbooxbx": [
+        7,
+        3
+    ],
+    "xoxbooxxb": [
+        8,
+        3
+    ],
+    "xoxboxbxo": [
+        6,
+        3
+    ],
+    "xoxboxoxb": [
+        8,
+        3
+    ],
+    "xoxboxxbo": [
+        7,
+        3
+    ],
+    "xoxboxxob": [
+        8,
+        3
+    ],
+    "xoxbxboox": [
+        5,
+        3
+    ],
+    "xoxbxboxo": [
+        5,
+        3
+    ],
+    "xoxbxobox": [
+        6,
+        3
+    ],
+    "xoxbxobxo": [
+        6,
+        3
+    ],
+    "xoxbxoobx": [
+        7,
+        3
+    ],
+    "xoxbxooxb": [
+        8,
+        3
+    ],
+    "xoxbxxboo": [
+        6,
+        3
+    ],
+    "xoxbxxobo": [
+        7,
+        3
+    ],
+    "xoxbxxoob": [
+        8,
+        3
+    ],
+    "xoxobboxx": [
+        4,
+        5
+    ],
+    "xoxobbxox": [
+        4,
+        5
+    ],
+    "xoxobbxxo": [
+        4,
+        5
+    ],
+    "xoxobobxx": [
+        4,
+        6
+    ],
+    "xoxoboxbx": [
+        4,
+        7
+    ],
+    "xoxoboxxb": [
+        4,
+        8
+    ],
+    "xoxobxbxo": [
+        4,
+        6
+    ],
+    "xoxobxoxb": [
+        4,
+        8
+    ],
+    "xoxobxxbo": [
+        4,
+        7
+    ],
+    "xoxobxxob": [
+        4,
+        8
+    ],
+    "xoxoobbxx": [
+        6,
+        5
+    ],
+    "xoxoobxbx": [
+        7,
+        5
+    ],
+    "xoxoobxxb": [
+        8,
+        5
+    ],
+    "xoxooxbxb": [
+        8,
+        6
+    ],
+    "xoxooxxbb": [
+        8,
+        7
+    ],
+    "xoxoxbbox": [
+        6,
+        5
+    ],
+    "xoxoxbbxo": [
+        6,
+        5
+    ],
+    "xoxoxbobx": [
+        7,
+        5
+    ],
+    "xoxoxboxb": [
+        8,
+        5
+    ],
+    "xoxoxobbx": [
+        6,
+        7
+    ],
+    "xoxoxobxb": [
+        8,
+        6
+    ],
+    "xoxoxxbbo": [
+        6,
+        7
+    ],
+    "xoxoxxbob": [
+        8,
+        6
+    ],
+    "xoxoxxobb": [
+        8,
+        7
+    ],
+    "xoxxbboox": [
+        4,
+        5
+    ],
+    "xoxxbboxo": [
+        4,
+        5
+    ],
+    "xoxxbbxoo": [
+        4,
+        5
+    ],
+    "xoxxbobox": [
+        4,
+        6
+    ],
+    "xoxxbobxo": [
+        4,
+        6
+    ],
+    "xoxxboobx": [
+        4,
+        7
+    ],
+    "xoxxbooxb": [
+        4,
+        8
+    ],
+    "xoxxboxbo": [
+        4,
+        7
+    ],
+    "xoxxboxob": [
+        4,
+        8
+    ],
+    "xoxxbxboo": [
+        4,
+        6
+    ],
+    "xoxxbxobo": [
+        4,
+        7
+    ],
+    "xoxxbxoob": [
+        4,
+        8
+    ],
+    "xoxxobbox": [
+        6,
+        5
+    ],
+    "xoxxobbxo": [
+        6,
+        5
+    ],
+    "xoxxobobx": [
+        7,
+        5
+    ],
+    "xoxxoboxb": [
+        8,
+        5
+    ],
+    "xoxxobxbo": [
+        7,
+        5
+    ],
+    "xoxxobxob": [
+        8,
+        5
+    ],
+    "xoxxoobbx": [
+        6,
+        7
+    ],
+    "xoxxoobxb": [
+        8,
+        6
+    ],
+    "xoxxooxbb": [
+        8,
+        7
+    ],
+    "xoxxoxbbo": [
+        6,
+        7
+    ],
+    "xoxxoxbob": [
+        8,
+        6
+    ],
+    "xoxxoxobb": [
+        8,
+        7
+    ],
+    "xoxxxbboo": [
+        6,
+        5
+    ],
+    "xoxxxbobo": [
+        7,
+        5
+    ],
+    "xoxxxboob": [
+        8,
+        5
+    ],
+    "xoxxxobbo": [
+        6,
+        7
+    ],
+    "xoxxxobob": [
+        8,
+        6
+    ],
+    "xoxxxoobb": [
+        8,
+        7
+    ],
+    "xxbboooxx": [
+        2,
+        3
+    ],
+    "xxbbooxox": [
+        2,
+        3
+    ],
+    "xxbbooxxo": [
+        2,
+        3
+    ],
+    "xxbboxoox": [
+        2,
+        3
+    ],
+    "xxbboxoxo": [
+        2,
+        3
+    ],
+    "xxbboxxoo": [
+        2,
+        3
+    ],
+    "xxbbxooox": [
+        2,
+        3
+    ],
+    "xxbbxoxoo": [
+        2,
+        3
+    ],
+    "xxbbxxooo": [
+        2,
+        3
+    ],
+    "xxbobooxx": [
+        2,
+        4
+    ],
+    "xxboboxox": [
+        2,
+        4
+    ],
+    "xxboboxxo": [
+        2,
+        4
+    ],
+    "xxbobxoox": [
+        2,
+        4
+    ],
+    "xxbobxoxo": [
+        2,
+        4
+    ],
+    "xxbobxxoo": [
+        2,
+        4
+    ],
+    "xxbooboxx": [
+        2,
+        5
+    ],
+    "xxboobxox": [
+        2,
+        5
+    ],
+    "xxboobxxo": [
+        2,
+        5
+    ],
+    "xxbooobxx": [
+        2,
+        6
+    ],
+    "xxboooxbx": [
+        2,
+        7
+    ],
+    "xxboooxxb": [
+        2,
+        8
+    ],
+    "xxbooxbox": [
+        2,
+        6
+    ],
+    "xxbooxbxo": [
+        2,
+        6
+    ],
+    "xxbooxobx": [
+        2,
+        7
+    ],
+    "xxbooxoxb": [
+        2,
+        8
+    ],
+    "xxbooxxbo": [
+        2,
+        7
+    ],
+    "xxbooxxob": [
+        2,
+        8
+    ],
+    "xxboxboox": [
+        2,
+        5
+    ],
+    "xxboxbxoo": [
+        2,
+        5
+    ],
+    "xxboxobox": [
+        2,
+        6
+    ],
+    "xxboxoobx": [
+        2,
+        7
+    ],
+    "xxboxoxbo": [
+        2,
+        7
+    ],
+    "xxboxoxob": [
+        2,
+        8
+    ],
+    "xxboxxboo": [
+        2,
+        6
+    ],
+    "xxboxxobo": [
+        2,
+        7
+    ],
+    "xxboxxoob": [
+        2,
+        8
+    ],
+    "xxbxbooox": [
+        2,
+        4
+    ],
+    "xxbxbooxo": [
+        2,
+        4
+    ],
+    "xxbxboxoo": [
+        2,
+        4
+    ],
+    "xxbxbxooo": [
+        2,
+        4
+    ],
+    "xxbxoboox": [
+        2,
+        5
+    ],
+    "xxbxoboxo": [
+        2,
+        5
+    ],
+    "xxbxobxoo": [
+        2,
+        5
+    ],
+    "xxbxoobox": [
+        2,
+        6
+    ],
+    "xxbxoobxo": [
+        2,
+        6
+    ],
+    "xxbxooobx": [
+        2,
+        7
+    ],
+    "xxbxoooxb": [
+        2,
+        8
+    ],
+    "xxbxooxbo": [
+        2,
+        7
+    ],
+    "xxbxooxob": [
+        2,
+        8
+    ],
+    "xxbxoxboo": [
+        2,
+        6
+    ],
+    "xxbxoxobo": [
+        2,
+        7
+    ],
+    "xxbxoxoob": [
+        2,
+        8
+    ],
+    "xxbxxbooo": [
+        2,
+        5
+    ],
+    "xxbxxoboo": [
+        2,
+        6
+    ],
+    "xxbxxoobo": [
+        2,
+        7
+    ],
+    "xxbxxooob": [
+        2,
+        8
+    ],
+    "xxobbooxx": [
+        4,
+        3
+    ],
+    "xxobboxox": [
+        4,
+        3
+    ],
+    "xxobboxxo": [
+        4,
+        3
+    ],
+    "xxobbxoox": [
+        4,
+        3
+    ],
+    "xxobbxoxo": [
+        4,
+        3
+    ],
+    "xxobbxxoo": [
+        4,
+        3
+    ],
+    "xxoboboxx": [
+        5,
+        3
+    ],
+    "xxobobxox": [
+        5,
+        3
+    ],
+    "xxobobxxo": [
+        5,
+        3
+    ],
+    "xxoboobxx": [
+        6,
+        3
+    ],
+    "xxobooxbx": [
+        7,
+        3
+    ],
+    "xxobooxxb": [
+        8,
+        3
+    ],
+    "xxoboxbox": [
+        6,
+        3
+    ],
+    "xxoboxbxo": [
+        6,
+        3
+    ],
+    "xxoboxobx": [
+        7,
+        3
+    ],
+    "xxoboxoxb": [
+        8,
+        3
+    ],
+    "xxoboxxbo": [
+        7,
+        3
+    ],
+    "xxoboxxob": [
+        8,
+        3
+    ],
+    "xxobxboox": [
+        5,
+        3
+    ],
+    "xxobxbxoo": [
+        5,
+        3
+    ],
+    "xxobxobox": [
+        6,
+        3
+    ],
+    "xxobxoobx": [
+        7,
+        3
+    ],
+    "xxobxoxbo": [
+        7,
+        3
+    ],
+    "xxobxoxob": [
+        8,
+        3
+    ],
+    "xxobxxboo": [
+        6,
+        3
+    ],
+    "xxobxxobo": [
+        7,
+        3
+    ],
+    "xxobxxoob": [
+        8,
+        3
+    ],
+    "xxoobboxx": [
+        4,
+        5
+    ],
+    "xxoobbxox": [
+        4,
+        5
+    ],
+    "xxoobbxxo": [
+        4,
+        5
+    ],
+    "xxoobobxx": [
+        4,
+        6
+    ],
+    "xxooboxbx": [
+        4,
+        7
+    ],
+    "xxooboxxb": [
+        4,
+        8
+    ],
+    "xxoobxbox": [
+        4,
+        6
+    ],
+    "xxoobxbxo": [
+        4,
+        6
+    ],
+    "xxoobxobx": [
+        4,
+        7
+    ],
+    "xxoobxoxb": [
+        4,
+        8
+    ],
+    "xxoobxxbo": [
+        4,
+        7
+    ],
+    "xxoobxxob": [
+        4,
+        8
+    ],
+    "xxooobbxx": [
+        6,
+        5
+    ],
+    "xxooobxbx": [
+        7,
+        5
+    ],
+    "xxooobxxb": [
+        8,
+        5
+    ],
+    "xxoooxbbx": [
+        6,
+        7
+    ],
+    "xxoooxbxb": [
+        8,
+        6
+    ],
+    "xxoooxxbb": [
+        8,
+        7
+    ],
+    "xxooxbbox": [
+        6,
+        5
+    ],
+    "xxooxbobx": [
+        7,
+        5
+    ],
+    "xxooxbxbo": [
+        7,
+        5
+    ],
+    "xxooxbxob": [
+        8,
+        5
+    ],
+    "xxooxobbx": [
+        6,
+        7
+    ],
+    "xxooxoxbb": [
+        8,
+        7
+    ],
+    "xxooxxbbo": [
+        6,
+        7
+    ],
+    "xxooxxbob": [
+        8,
+        6
+    ],
+    "xxooxxobb": [
+        8,
+        7
+    ],
+    "xxoxbboox": [
+        4,
+        5
+    ],
+    "xxoxbboxo": [
+        4,
+        5
+    ],
+    "xxoxbbxoo": [
+        4,
+        5
+    ],
+    "xxoxbobox": [
+        4,
+        6
+    ],
+    "xxoxbobxo": [
+        4,
+        6
+    ],
+    "xxoxboobx": [
+        4,
+        7
+    ],
+    "xxoxbooxb": [
+        4,
+        8
+    ],
+    "xxoxboxbo": [
+        4,
+        7
+    ],
+    "xxoxboxob": [
+        4,
+        8
+    ],
+    "xxoxbxboo": [
+        4,
+        6
+    ],
+    "xxoxbxobo": [
+        4,
+        7
+    ],
+    "xxoxbxoob": [
+        4,
+        8
+    ],
+    "xxoxobbox": [
+        6,
+        5
+    ],
+    "xxoxobbxo": [
+        6,
+        5
+    ],
+    "xxoxobobx": [
+        7,
+        5
+    ],
+    "xxoxoboxb": [
+        8,
+        5
+    ],
+    "xxoxobxbo": [
+        7,
+        5
+    ],
+    "xxoxobxob": [
+        8,
+        5
+    ],
+    "xxoxoobbx": [
+        6,
+        7
+    ],
+    "xxoxoobxb": [
+        8,
+        6
+    ],
+    "xxoxooxbb": [
+        8,
+        7
+    ],
+    "xxoxoxbbo": [
+        6,
+        7
+    ],
+    "xxoxoxbob": [
+        8,
+        6
+    ],
+    "xxoxoxobb": [
+        8,
+        7
+    ],
+    "xxoxxbboo": [
+        6,
+        5
+    ],
+    "xxoxxbobo": [
+        7,
+        5
+    ],
+    "xxoxxboob": [
+        8,
+        5
+    ],
+    "xxoxxobbo": [
+        6,
+        7
+    ],
+    "xxoxxobob": [
+        8,
+        6
+    ],
+    "xxoxxoobb": [
+        8,
+        7
+    ]
+}
